@@ -17,30 +17,6 @@
     sortBy: 'default'
   };
 
-  // Course configuration & descriptions
-  const courseMeta = {
-    all: {
-      badge: 'Catálogo Geral de Montagem',
-      title: 'Tutoriais em Formato de Slides',
-      desc: 'Cada etapa da montagem é exibida como um slide individual grande e nítido. Navegue passo a passo com as setas do teclado ou pelos botões na tela.'
-    },
-    firstbot: {
-      badge: 'Curso FirstBot',
-      title: 'Slides de Montagem FirstBot (MRT1 Brain)',
-      desc: 'Robótica introdutória com blocos modulares grandes de pinos e encaixe tátil (MRT1 Brain A e Logix5). 28 projetos mecânicos e motorizados com sensores táteis, motores DC e acionamento por cartões.'
-    },
-    onebot: {
-      badge: 'Curso OneBot',
-      title: 'Slides de Montagem OneBot (MRT3 Foundation / Beginner / Intermediate)',
-      desc: 'Robótica estrutural com blocos multidirecionais, engrenagens, bielas e polias (MRT3-1, MRT3-2 e MRT3-3). 32 projetos com controle remoto, sensores infravermelhos (IR), de toque, som, motores DC e servomotores.'
-    },
-    techbot: {
-      badge: 'Curso TechBot',
-      title: 'Slides de Montagem TechBot (MRT-Duino)',
-      desc: 'Robótica tecnológica com perfis de alumínio escovado, fixação por parafusos e porcas, sensores analógicos (CdS), potenciômetros, buzzer, LEDs e placa programável compatível com Arduino (MRTduino).'
-    }
-  };
-
   // DOM Elements
   const catalogGrid = document.getElementById('catalog-grid');
   const emptyState = document.getElementById('empty-state');
@@ -51,11 +27,6 @@
   const sortSelect = document.getElementById('sort-select');
   const courseTabs = document.getElementById('course-tabs');
   const btnResetFilters = document.getElementById('btn-reset-filters');
-
-  // Banner Elements
-  const bannerBadge = document.getElementById('banner-badge');
-  const bannerTitle = document.getElementById('banner-title');
-  const bannerDesc = document.getElementById('banner-desc');
 
   // Counter Elements
   const countAll = document.getElementById('count-all');
@@ -212,12 +183,6 @@
       li.classList.toggle('active', match);
       li.querySelector('button').setAttribute('aria-selected', match ? 'true' : 'false');
     });
-
-    // Update Banner Content
-    const meta = courseMeta[course] || courseMeta.all;
-    bannerBadge.textContent = meta.badge;
-    bannerTitle.textContent = meta.title;
-    bannerDesc.textContent = meta.desc;
 
     render();
   }

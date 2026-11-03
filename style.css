@@ -332,57 +332,18 @@ li.tab-item.active .tab-counter {
   padding: 24px;
 }
 
-/* Course Banner */
-.course-banner {
-  background: var(--color-surface);
-  border: 1px solid var(--color-border);
-  border-left: 4px solid var(--active-theme-color);
-  border-radius: var(--radius-md);
-  padding: 20px 24px;
-  margin-bottom: 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  transition: border-left-color 0.2s ease;
-}
-
-.banner-badge {
-  display: inline-block;
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--active-theme-color);
-  background: var(--active-theme-subtle);
-  padding: 3px 8px;
-  border-radius: var(--radius-sm);
-  margin-bottom: 6px;
-}
-
-.banner-title {
-  font-family: var(--font-display);
-  font-size: 1.45rem;
-  font-weight: 700;
-  color: var(--color-ink-primary);
-  letter-spacing: -0.015em;
-}
-
-.banner-desc {
-  font-size: 0.925rem;
-  color: var(--color-ink-secondary);
-  max-width: 780px;
-  line-height: 1.5;
-  margin-top: 4px;
-}
-
-.toolbar-controls {
+/* Toolbar Controls Bar */
+.toolbar-controls-bar {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
   gap: 16px;
   flex-wrap: wrap;
-  padding-top: 14px;
-  border-top: 1px dashed var(--color-border);
+  margin-bottom: 20px;
+  padding: 12px 18px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
 }
 
 /* Sort Select */
@@ -414,11 +375,9 @@ li.tab-item.active .tab-counter {
 .results-bar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  margin-bottom: 16px;
-  font-size: 0.85rem;
+  gap: 12px;
+  font-size: 0.9rem;
   color: var(--color-ink-secondary);
-  padding: 0 4px;
 }
 
 .results-count {

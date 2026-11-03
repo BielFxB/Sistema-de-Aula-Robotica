@@ -22,7 +22,6 @@
         </div>
         <div>
           <h1 class="brand-title">Bancada de Robótica</h1>
-          <p class="brand-subtitle">Slides interativos de montagem passo a passo · OneBot, FirstBot e TechBot</p>
         </div>
       </div>
 
@@ -76,32 +75,24 @@
   </header>
 
   <main class="app-main">
-    <!-- Course Banner / Info strip -->
-    <section class="course-banner" id="course-banner" aria-live="polite">
-      <div class="banner-content">
-        <div class="banner-badge" id="banner-badge">Catálogo Geral de Montagem</div>
-        <h2 class="banner-title" id="banner-title">Tutoriais em Formato de Slides</h2>
-        <p class="banner-desc" id="banner-desc">Cada etapa da montagem é exibida como um slide individual grande e nítido. Navegue passo a passo com as setas do teclado ou pelos botões na tela.</p>
+    <!-- Course Toolbar / Sort Controls -->
+    <div class="toolbar-controls-bar">
+      <!-- Results feedback -->
+      <div class="results-bar">
+        <span id="results-count" class="results-count">Exibindo 70 projetos</span>
+        <span id="active-filter-desc" class="active-filter-desc"></span>
       </div>
 
-      <div class="toolbar-controls">
-        <!-- Sorting -->
-        <div class="sort-wrap">
-          <label for="sort-select">Ordenar:</label>
-          <select id="sort-select" aria-label="Ordenar tutoriais">
-            <option value="default">Padrão do curso</option>
-            <option value="name">Nome (A–Z)</option>
-            <option value="steps-desc">Mais passos</option>
-            <option value="steps-asc">Menos passos</option>
-          </select>
-        </div>
+      <!-- Sorting -->
+      <div class="sort-wrap">
+        <label for="sort-select">Ordenar:</label>
+        <select id="sort-select" aria-label="Ordenar tutoriais">
+          <option value="default">Padrão do curso</option>
+          <option value="name">Nome (A–Z)</option>
+          <option value="steps-desc">Mais passos</option>
+          <option value="steps-asc">Menos passos</option>
+        </select>
       </div>
-    </section>
-
-    <!-- Results feedback bar -->
-    <div class="results-bar">
-      <span id="results-count" class="results-count">Exibindo 70 projetos</span>
-      <span id="active-filter-desc" class="active-filter-desc"></span>
     </div>
 
     <!-- Catalog Grid -->
