@@ -1,0 +1,12 @@
+# Arquivos de trabalho e dados brutos pesados
+Pdfs/
+tutoriais/
+__pycache__/
+*.pyc
+
+# Scripts utilitários de geração
+*.py
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

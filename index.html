@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bancada de Robótica | Slides de Montagem Passo a Passo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-active-course="all">
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-badge" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+            <line x1="8" y1="21" x2="16" y2="21"></line>
+            <line x1="12" y1="17" x2="12" y2="21"></line>
+          </svg>
+        </div>
+        <div>
+          <h1 class="brand-title">Bancada de Robótica</h1>
+          <p class="brand-subtitle">Slides interativos de montagem passo a passo · OneBot, FirstBot e TechBot</p>
+        </div>
+      </div>
+
+      <search class="header-search">
+        <form id="search-form" action="/search" method="GET" role="search" onsubmit="event.preventDefault()">
+          <label for="search-input" class="visually-hidden">Buscar robôs</label>
+          <div class="search-input-wrap">
+            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="search" id="search-input" name="q" placeholder="Buscar robô por nome (ex: Pato, Helicóptero, Carro, F-15...)" autocomplete="off">
+            <button type="button" id="search-clear" class="search-clear-btn" aria-label="Limpar busca" hidden>✕</button>
+          </div>
+        </form>
+      </search>
+    </div>
+
+    <!-- Course Navigation Tabs -->
+    <nav class="course-nav" aria-label="Cursos de robótica">
+      <ul class="course-tabs" id="course-tabs" role="tablist">
+        <li class="tab-item active" data-course="all">
+          <button type="button" role="tab" aria-selected="true" id="tab-all">
+            <span class="tab-name">Todos os Cursos</span>
+            <span class="tab-counter" id="count-all">70</span>
+          </button>
+        </li>
+        <li class="tab-item" data-course="firstbot">
+          <button type="button" role="tab" aria-selected="false" id="tab-firstbot">
+            <span class="course-dot dot-firstbot" aria-hidden="true"></span>
+            <span class="tab-name">FirstBot</span>
+            <span class="tab-counter" id="count-firstbot">28</span>
+          </button>
+        </li>
+        <li class="tab-item" data-course="onebot">
+          <button type="button" role="tab" aria-selected="false" id="tab-onebot">
+            <span class="course-dot dot-onebot" aria-hidden="true"></span>
+            <span class="tab-name">OneBot</span>
+            <span class="tab-counter" id="count-onebot">32</span>
+          </button>
+        </li>
+        <li class="tab-item" data-course="techbot">
+          <button type="button" role="tab" aria-selected="false" id="tab-techbot">
+            <span class="course-dot dot-techbot" aria-hidden="true"></span>
+            <span class="tab-name">TechBot</span>
+            <span class="tab-counter" id="count-techbot">10</span>
+          </button>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="app-main">
+    <!-- Course Banner / Info strip -->
+    <section class="course-banner" id="course-banner" aria-live="polite">
+      <div class="banner-content">
+        <div class="banner-badge" id="banner-badge">Catálogo Geral de Montagem</div>
+        <h2 class="banner-title" id="banner-title">Tutoriais em Formato de Slides</h2>
+        <p class="banner-desc" id="banner-desc">Cada etapa da montagem é exibida como um slide individual grande e nítido. Navegue passo a passo com as setas do teclado ou pelos botões na tela.</p>
+      </div>
+
+      <div class="toolbar-controls">
+        <!-- Sorting -->
+        <div class="sort-wrap">
+          <label for="sort-select">Ordenar:</label>
+          <select id="sort-select" aria-label="Ordenar tutoriais">
+            <option value="default">Padrão do curso</option>
+            <option value="name">Nome (A–Z)</option>
+            <option value="steps-desc">Mais passos</option>
+            <option value="steps-asc">Menos passos</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Results feedback bar -->
+    <div class="results-bar">
+      <span id="results-count" class="results-count">Exibindo 70 projetos</span>
+      <span id="active-filter-desc" class="active-filter-desc"></span>
+    </div>
+
+    <!-- Catalog Grid -->
+    <div class="catalog-grid" id="catalog-grid" role="region" aria-label="Lista de tutoriais de robôs">
+      <!-- Cards rendered via JS -->
+    </div>
+
+    <!-- Empty State -->
+    <div class="empty-state" id="empty-state" hidden>
+      <div class="empty-icon" aria-hidden="true">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          <line x1="8" y1="11" x2="14" y2="11"></line>
+        </svg>
+      </div>
+      <h3>Nenhum projeto encontrado</h3>
+      <p>Nenhum robô corresponde aos filtros e termos pesquisados. Tente ajustar a busca ou limpar os filtros.</p>
+      <button type="button" class="btn btn-primary" id="btn-reset-filters">Limpar busca e filtros</button>
+    </div>
+  </main>
+
+  <footer class="app-footer">
+    <div class="footer-inner">
+      <div class="footer-meta">
+        <strong>Bancada de Robótica</strong> — Sistema de apresentação de slides de montagem para alunos e professores.
+      </div>
+      <div class="footer-stats">
+        <span>FirstBot: 28</span>
+        <span>OneBot: 32</span>
+        <span>TechBot: 10</span>
+        <span class="total-badge">Total: 70 projetos</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Interactive Step-by-Step Slide Presentation Dialog (<dialog>) -->
+  <dialog id="viewer-dialog" class="viewer-dialog slide-dialog" closedby="any" aria-labelledby="slide-title">
+    <!-- Top Progress Gauge Bar -->
+    <div class="slide-progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+      <div class="slide-progress-fill" id="slide-progress-fill"></div>
+    </div>
+
+    <!-- Presentation Header -->
+    <div class="slide-dialog-header">
+      <div class="slide-header-left">
+        <div class="slide-status-row">
+          <span class="slide-step-badge" id="slide-step-badge">Slide 1 de 15</span>
+          <span class="dialog-course-pill" id="viewer-course-pill">FirstBot</span>
+          <span class="dialog-level-pill" id="viewer-level-pill">Iniciante</span>
+        </div>
+        <h2 id="slide-title" class="slide-step-name">Visão Geral e Lista de Peças</h2>
+        <span id="viewer-robot-name" class="slide-robot-name">Pato Robótico (Pato robótico)</span>
+      </div>
+
+      <div class="slide-header-controls">
+        <div class="view-mode-toggle" role="tablist" aria-label="Modo de visualização">
+          <button type="button" class="mode-btn active" id="btn-mode-slides" role="tab" aria-selected="true">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+              <line x1="8" y1="21" x2="16" y2="21"></line>
+              <line x1="12" y1="17" x2="12" y2="21"></line>
+            </svg>
+            Slides
+          </button>
+          <button type="button" class="mode-btn" id="btn-mode-pdf" role="tab" aria-selected="false">PDF Completo</button>
+        </div>
+
+        <button type="button" id="btn-fullscreen" class="tool-btn-pill" title="Apresentar em tela cheia (F11)">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>
+          </svg>
+          <span>Tela Cheia</span>
+        </button>
+
+        <a id="viewer-download-btn" href="#" download class="tool-btn-pill" title="Baixar PDF do manual">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="7 10 12 15 17 10"></polyline>
+            <line x1="12" y1="15" x2="12" y2="3"></line>
+          </svg>
+          <span>PDF</span>
+        </a>
+
+        <form method="dialog">
+          <button type="submit" class="btn-close" aria-label="Fechar apresentação">✕</button>
+        </form>
+      </div>
+    </div>
+
+    <!-- Presentation Main Stage -->
+    <div class="slide-stage" id="slide-stage">
+      <!-- Slides View -->
+      <div class="slides-viewport-wrap" id="slides-viewport-wrap">
+        <button type="button" class="slide-nav-btn nav-btn-prev" id="btn-prev-slide" aria-label="Slide anterior">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+          <span class="nav-key-hint">←</span>
+        </button>
+
+        <div class="slide-frame" id="slide-frame">
+          <div class="slide-image-card">
+            <img id="active-slide-img" class="active-slide-img" src="" alt="Passo de montagem do robô">
+          </div>
+        </div>
+
+        <button type="button" class="slide-nav-btn nav-btn-next" id="btn-next-slide" aria-label="Próximo slide">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="9 18 15 12 9 6"></polyline>
+          </svg>
+          <span class="nav-key-hint">→</span>
+        </button>
+      </div>
+
+      <!-- Native PDF Fallback View -->
+      <div class="pdf-fallback-view" id="pdf-fallback-view" hidden>
+        <iframe id="viewer-pdf-frame" src="" title="Visualizador do PDF formatado" loading="lazy"></iframe>
+      </div>
+    </div>
+
+    <!-- Presentation Bottom Bar & Step Filmstrip -->
+    <div class="slide-bottom-bar">
+      <div class="slide-filmstrip-label">Etapas:</div>
+      <div class="slide-filmstrip" id="slide-filmstrip" role="tablist" aria-label="Navegador de etapas">
+        <!-- Step mini tiles rendered via JS -->
+      </div>
+      <div class="slide-hints">
+        <span>Dica: Use <strong>←</strong> e <strong>→</strong> ou <strong>Espaço</strong> para avançar</span>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Load static data for offline file:// support; falls back to fetch if available -->
+  <script src="tutorials-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
