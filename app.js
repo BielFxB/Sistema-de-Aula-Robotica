@@ -40,6 +40,7 @@
   const countFirstbot = document.getElementById('count-firstbot');
   const countOnebot = document.getElementById('count-onebot');
   const countTechbot = document.getElementById('count-techbot');
+  const countSkillbot = document.getElementById('count-skillbot');
 
   // Slide Dialog Elements
   const viewerDialog = document.getElementById('viewer-dialog');
@@ -107,11 +108,13 @@
     const fbCount = allTutorials.filter(t => t.course === 'firstbot').length;
     const obCount = allTutorials.filter(t => t.course === 'onebot').length;
     const tbCount = allTutorials.filter(t => t.course === 'techbot').length;
+    const skCount = allTutorials.filter(t => t.course === 'skillbot').length;
 
     countAll.textContent = total;
     countFirstbot.textContent = fbCount;
     countOnebot.textContent = obCount;
     countTechbot.textContent = tbCount;
+    if (countSkillbot) countSkillbot.textContent = skCount;
   }
 
   // Event Listeners

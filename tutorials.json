@@ -14942,5 +14942,3587 @@
       }
     ],
     "slideCount": 27
+  },
+  {
+    "id": "sk-01",
+    "title": "Robô Gerador",
+    "originalTitle": "Generator Robot",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 7,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/sk-01.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/01 Robot.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-01/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-01/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-01/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-01/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-02",
+    "title": "Robô Programável",
+    "originalTitle": "Basic Programming Robot",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 16,
+    "slideCount": 18,
+    "thumb": "assets/thumbs/sk-02.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/02 Basic programming.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-02/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/sk-02/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-02/slide_18.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-03",
+    "title": "Reino dos Moinhos",
+    "originalTitle": "The Windmill Kingdom",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 11,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/sk-03.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/03 The windmill kingdom.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-03/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-03/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-03/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-04",
+    "title": "Robô Baterista",
+    "originalTitle": "Drummer Robot",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 10,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/sk-04.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/04 Drummer robot.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-04/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-04/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-04/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-05",
+    "title": "Robô Atleta",
+    "originalTitle": "Athlete Robot",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 9,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/sk-05.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/05 Athlete.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-05/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-05/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-05/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-06",
+    "title": "Abelha Robótica",
+    "originalTitle": "Robotic Bee",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 4,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/sk-06.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/06 Bee.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-06/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-06/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-06/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-06/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-06/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-06/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-07",
+    "title": "Cortador de Grama",
+    "originalTitle": "Lawn Mower",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 7,
+    "slideCount": 9,
+    "thumb": "assets/thumbs/sk-07.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/07 The lawn mower.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-07/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-07/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-07/slide_09.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-08",
+    "title": "Esteira Ergométrica",
+    "originalTitle": "Treadmill",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 5,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/sk-08.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/08 The treadmill.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-08/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-08/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-08/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-08/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-08/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-08/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-08/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-09",
+    "title": "Chapéu Mexicano (Cadeira Voadora)",
+    "originalTitle": "Rotating Flying Chair",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 5,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/sk-09.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/09 Rotating flying chair.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-09/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-09/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-09/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-09/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-09/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-09/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-09/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-10",
+    "title": "Pinguim Tímido",
+    "originalTitle": "Shy Penguin",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 11,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/sk-10.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/10 Shy penguin.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-10/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-10/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-10/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-11",
+    "title": "Câmbio de Marchas",
+    "originalTitle": "Shift Gears",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 7,
+    "slideCount": 9,
+    "thumb": "assets/thumbs/sk-11.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/11 Shift gears.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-11/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-11/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-11/slide_09.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-12",
+    "title": "Cão de Trenó",
+    "originalTitle": "Sled Dog",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 5,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/sk-12.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/12 Sled dog.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-12/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-12/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-12/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-12/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-12/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-12/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-12/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-13",
+    "title": "Roda-Gigante",
+    "originalTitle": "Ferris Wheel",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 11,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/sk-13.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/13.Ferris wheel.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-13/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-13/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-14",
+    "title": "Armadilha de Animais",
+    "originalTitle": "Animal Trap",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 7,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/sk-14.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/14.Animal trap.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-14/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-14/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-15",
+    "title": "Sensor de Ré Sonoro",
+    "originalTitle": "Back-up Buzzer",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 10,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/sk-15.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/15.Back-up buzzer.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-15/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-15/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-15/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-16",
+    "title": "Cobra Feroz",
+    "originalTitle": "Ferocious Snake",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 13,
+    "slideCount": 14,
+    "thumb": "assets/thumbs/sk-16.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/16.Ferocious snake.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-16/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-16/slide_14.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-17",
+    "title": "Gatinho Brincalhão",
+    "originalTitle": "Funny Cat",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 10,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/sk-17.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/17.Funny cat.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-17/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-17/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-18",
+    "title": "Super Rotor",
+    "originalTitle": "Super Rotor",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 5,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/sk-18.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/18.Super rotor.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-18/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-18/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-18/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-18/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-18/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-18/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-19",
+    "title": "Centrífuga de Laboratório",
+    "originalTitle": "Blood Bank Centrifuge",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 15,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/sk-19.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/19.Blood bank Centrifuge.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-19/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/sk-19/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-20",
+    "title": "Besouro-Veado (Lucano)",
+    "originalTitle": "Stag Beetle",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 15,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/sk-20.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/20.Stag beetle.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-20/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/sk-20/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-20/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-21",
+    "title": "Chimpanzé",
+    "originalTitle": "Chimpanzee",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 4,
+    "slideCount": 5,
+    "thumb": "assets/thumbs/sk-21.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/21.Chimpanzees.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-21/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-21/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-21/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-21/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-21/slide_05.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-22",
+    "title": "Equilibrista na Corda Bamba",
+    "originalTitle": "Tightrope Walker",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 4,
+    "slideCount": 5,
+    "thumb": "assets/thumbs/sk-22.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/22.Tightrope walk.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-22/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-22/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-22/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-22/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-22/slide_05.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-23",
+    "title": "Lançador de Pião Giratório",
+    "originalTitle": "Gyro Transmitter",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 11,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/sk-23.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/23.Gyro transmitter.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-23/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-23/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-23/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-24",
+    "title": "Barco a Vela",
+    "originalTitle": "Sailboat",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-A",
+    "steps": 14,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/sk-24.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-A (24 lessons)/24.Sailboat.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-24/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-24/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-25",
+    "title": "Roleta da Sorte",
+    "originalTitle": "Lucky Turntable",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 12,
+    "slideCount": 14,
+    "thumb": "assets/thumbs/sk-25.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/1.Lucky turntable.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-25/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-25/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-25/slide_14.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-26",
+    "title": "Máquina de Vendas",
+    "originalTitle": "Vending Machine",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 16,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/sk-26.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/10.Vending machine.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-26/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/sk-26/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-27",
+    "title": "Ponte Levadiça",
+    "originalTitle": "Drawbridge",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 10,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/sk-27.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/11.Drawbridge.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-27/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-27/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-28",
+    "title": "Janela Automática",
+    "originalTitle": "Automatic Window",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 11,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/sk-28.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/12.Automatic window.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-28/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-28/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-28/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-29",
+    "title": "Robô Guerreiro",
+    "originalTitle": "Robot War",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 14,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/sk-29.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/13.Robot war.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-29/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-29/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-30",
+    "title": "Tela de Animação Dinâmica",
+    "originalTitle": "Dynamic Screen",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 1,
+    "slideCount": 3,
+    "thumb": "assets/thumbs/sk-30.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/14.Dynamic screen.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-30/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-30/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-30/slide_03.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-31",
+    "title": "Carro Seguidor de Linha",
+    "originalTitle": "Line Patrol Car",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 4,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/sk-31.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/15.Line patrol car.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-31/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-31/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-31/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-31/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-31/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-31/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-32",
+    "title": "Placa Sinalizadora",
+    "originalTitle": "Electronic Sign",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 11,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/sk-32.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/16.Sign.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-32/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-32/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-33",
+    "title": "Robô Martelo",
+    "originalTitle": "Hammer Robot",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 13,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/sk-33.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/17.Hammer robot.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-33/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-33/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-33/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-34",
+    "title": "Balança Eletrônica",
+    "originalTitle": "Electronic Scale",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 16,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/sk-34.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/18.Electronic scale.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-34/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/sk-34/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-35",
+    "title": "Ventilador Elétrico",
+    "originalTitle": "Electric Fan",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 4,
+    "slideCount": 5,
+    "thumb": "assets/thumbs/sk-35.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/19.Electric fan.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-35/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-35/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-35/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-35/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-35/slide_05.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-36",
+    "title": "Carro com Direção",
+    "originalTitle": "Steering Car",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 3,
+    "slideCount": 4,
+    "thumb": "assets/thumbs/sk-36.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/2.Car.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-36/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-36/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-36/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-36/slide_04.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-37",
+    "title": "Cancela de Estacionamento",
+    "originalTitle": "Parking Gate",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 9,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/sk-37.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/20.Parking gate.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-37/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-37/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-38",
+    "title": "Detector de Cédulas",
+    "originalTitle": "Money Detector",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 7,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/sk-38.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/21.Money detector.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-38/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-38/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-39",
+    "title": "Sistema Contador",
+    "originalTitle": "Counting System",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 7,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/sk-39.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/22.Counting system.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-39/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-39/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-40",
+    "title": "Cofre Seguro",
+    "originalTitle": "Coffer",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 7,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/sk-40.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/23.Coffer.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-40/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-40/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-41",
+    "title": "Super Carro Patrulha",
+    "originalTitle": "Super Patrol Car",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 4,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/sk-41.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/24.Super patrol car.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-41/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-41/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-41/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-41/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-41/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-41/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-42",
+    "title": "Patinador",
+    "originalTitle": "Skater",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 3,
+    "slideCount": 4,
+    "thumb": "assets/thumbs/sk-42.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/3.Skating.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-42/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-42/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-42/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-42/slide_04.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-43",
+    "title": "Robô Detector de Abismo",
+    "originalTitle": "Cliff Walker",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 3,
+    "slideCount": 4,
+    "thumb": "assets/thumbs/sk-43.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/4.Cliff walk.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-43/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-43/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-43/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-43/slide_04.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-44",
+    "title": "Carro de Corrida",
+    "originalTitle": "Racing Car",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 12,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/sk-44.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/5.Racing.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-44/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-44/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/sk-44/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Ligação na Placa Controladora",
+        "type": "wiring",
+        "src": "assets/slides/sk-44/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-45",
+    "title": "Transporte de Ida e Volta",
+    "originalTitle": "Round-trip Transportation",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 7,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/sk-45.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/6.Round-trip transportation.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-45/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-45/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-46",
+    "title": "Carrinho Bate-Bate",
+    "originalTitle": "Bumper Car",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 4,
+    "slideCount": 5,
+    "thumb": "assets/thumbs/sk-46.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/7.Bumper car.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-46/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-46/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-46/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-46/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-46/slide_05.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-47",
+    "title": "Farol Automático",
+    "originalTitle": "Automatic Headlights",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 5,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/sk-47.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/8.Headlights.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-47/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-47/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-47/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-47/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-47/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-47/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "sk-48",
+    "title": "Escada Magirus de Bombeiro",
+    "originalTitle": "Fire Ladder",
+    "course": "skillbot",
+    "courseName": "SkillBot",
+    "level": "Módulo 1S-B",
+    "steps": 14,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/sk-48.webp",
+    "pdf": "tutoriais/skillbot/AI Module 1S-B (24 lessons)/9.Fire ladder.pptx",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral do Robô",
+        "type": "overview",
+        "src": "assets/slides/sk-48/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/sk-48/slide_15.webp"
+      }
+    ]
   }
 ]

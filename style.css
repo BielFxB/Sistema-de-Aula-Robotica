@@ -22,6 +22,8 @@
   --color-onebot-subtle: #EDF4FE;
   --color-techbot: #0E7C6B;
   --color-techbot-subtle: #E7F6F3;
+  --color-skillbot: #8E44AD;
+  --color-skillbot-subtle: #F5EEF8;
 
   /* Dynamic Active Theme */
   --active-theme-color: #344563;
@@ -61,6 +63,8 @@
   --color-onebot-subtle: rgba(27, 100, 216, 0.18);
   --color-techbot: #20B2AA;
   --color-techbot-subtle: rgba(14, 124, 107, 0.18);
+  --color-skillbot: #B388FF;
+  --color-skillbot-subtle: rgba(142, 68, 173, 0.22);
 
   --active-theme-subtle: rgba(255, 255, 255, 0.08);
 
@@ -80,6 +84,10 @@ body[data-active-course="onebot"] {
 body[data-active-course="techbot"] {
   --active-theme-color: var(--color-techbot);
   --active-theme-subtle: var(--color-techbot-subtle);
+}
+body[data-active-course="skillbot"] {
+  --active-theme-color: var(--color-skillbot);
+  --active-theme-subtle: var(--color-skillbot-subtle);
 }
 
 /* Base Reset */
@@ -378,6 +386,7 @@ li.tab-item.active button {
 .dot-firstbot { background-color: var(--color-firstbot); }
 .dot-onebot   { background-color: var(--color-onebot); }
 .dot-techbot  { background-color: var(--color-techbot); }
+.dot-skillbot { background-color: var(--color-skillbot); }
 
 .tab-counter {
   font-size: 0.75rem;

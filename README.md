@@ -31,7 +31,8 @@ Ao clicar em qualquer robô do catálogo:
 | **FirstBot** | MRT1 Brain A + Logix5 | **28** | **906 slides** | Robótica introdutória com blocos modulares grandes de pinos e encaixe tátil, sensores de toque e motores DC. |
 | **OneBot** | MRT3 (Foundation, Beginner, Intermediate) | **32** | **1.081 slides** | Robótica mecânica com engrenagens, polias, bielas, sensores infravermelhos (IR), toque, som, motores DC e servomotores. |
 | **TechBot** | MRT-Duino (Arduino) | **10** | **178 slides** | Robótica avançada com estrutura de perfis de alumínio, parafusos/porcas, LEDs, sensor de luz CdS, buzzer, servomotor e potenciômetro. |
-| **TOTAL** | — | **70** | **2.165 slides** | Acervo permanente completo |
+| **SkillBot** | AI Module 1S-A & 1S-B | **48** | **497 slides** | Robótica inteligente e programação em blocos com motores de malha fechada, engrenagens cônicas e sensores. |
+| **TOTAL** | — | **118** | **2.662 slides** | Acervo permanente completo |
 
 ---
 
