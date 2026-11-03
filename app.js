@@ -183,41 +183,14 @@
 
     // Fullscreen Toggle
     btnFullscreen.addEventListener('click', () => {
-      const isFullscreen = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
-
-      if (!isFullscreen) {
-        if (viewerDialog.requestFullscreen) {
-          viewerDialog.requestFullscreen().catch(err => console.warn('Erro ao ativar tela cheia:', err));
-        } else if (viewerDialog.webkitRequestFullscreen) {
-          viewerDialog.webkitRequestFullscreen();
-        } else if (viewerDialog.msRequestFullscreen) {
-          viewerDialog.msRequestFullscreen();
-        } else if (document.documentElement.requestFullscreen) {
-          document.documentElement.requestFullscreen().catch(err => console.warn(err));
-        }
-      } else {
-        if (document.exitFullscreen) {
-          document.exitFullscreen().catch(err => console.warn('Erro ao sair de tela cheia:', err));
-        } else if (document.webkitExitFullscreen) {
-          document.webkitExitFullscreen();
-        } else if (document.msExitFullscreen) {
-          document.msExitFullscreen();
-        }
-      }
+      toggleFullscreen();
     });
 
-    // Update Fullscreen button icon / text when state changes
-    document.addEventListener('fullscreenchange', updateFullscreenState);
-    document.addEventListener('webkitfullscreenchange', updateFullscreenState);
-
-    function updateFullscreenState() {
-      const isFs = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
-      const span = btnFullscreen.querySelector('span');
-      if (span) {
-        span.textContent = isFs ? 'Sair da Tela Cheia' : 'Tela Cheia';
-      }
-      btnFullscreen.classList.toggle('active', isFs);
-    }
+    // Native Fullscreen Event Listeners
+    document.addEventListener('fullscreenchange', handleNativeFullscreenChange);
+    document.addEventListener('webkitfullscreenchange', handleNativeFullscreenChange);
+    document.addEventListener('mozfullscreenchange', handleNativeFullscreenChange);
+    document.addEventListener('MSFullscreenChange', handleNativeFullscreenChange);
 
     // Zoom Controls
     if (btnZoomIn) {
@@ -289,12 +262,19 @@
       } else if (e.key === '0') {
         e.preventDefault();
         resetZoom();
+      } else if (e.key === 'f' || e.key === 'F') {
+        e.preventDefault();
+        toggleFullscreen();
+      } else if (e.key === 'Escape' && isCurrentlyFullscreen()) {
+        e.preventDefault();
+        toggleFullscreen(false);
       }
     });
 
-    // Reset zoom on dialog close
+    // Reset zoom and exit fullscreen on dialog close
     viewerDialog.addEventListener('close', () => {
       resetZoom();
+      toggleFullscreen(false);
     });
   }
 
@@ -519,6 +499,118 @@
 
     // Show modal dialog
     viewerDialog.showModal();
+  }
+
+  // Fullscreen management (combines CSS maximize and HTML5 Fullscreen API)
+  function isCurrentlyFullscreen() {
+    return !!(
+      document.fullscreenElement ||
+      document.webkitFullscreenElement ||
+      document.mozFullScreenElement ||
+      document.msFullscreenElement ||
+      viewerDialog.classList.contains('is-fullscreen')
+    );
+  }
+
+  function updateFullscreenUI(active) {
+    const span = btnFullscreen.querySelector('.fs-label') || btnFullscreen.querySelector('span');
+    if (span) {
+      span.textContent = active ? 'Sair da Tela Cheia' : 'Tela Cheia';
+    }
+    btnFullscreen.classList.toggle('active', active);
+    btnFullscreen.setAttribute('title', active ? 'Sair da tela cheia (Esc ou F)' : 'Apresentar em tela cheia (F ou F11)');
+  }
+
+  function toggleFullscreen(forceState) {
+    const current = isCurrentlyFullscreen();
+    const shouldBeFs = typeof forceState === 'boolean' ? forceState : !current;
+
+    if (shouldBeFs) {
+      // 1. Immediately apply CSS maximize mode (reliable across 100% of devices and browsers)
+      viewerDialog.classList.add('is-fullscreen');
+      document.body.classList.add('viewer-is-fullscreen');
+      updateFullscreenUI(true);
+
+      // 2. Request native Fullscreen API on dialog or documentElement
+      const req = (
+        viewerDialog.requestFullscreen ||
+        viewerDialog.webkitRequestFullscreen ||
+        viewerDialog.mozRequestFullScreen ||
+        viewerDialog.msRequestFullscreen ||
+        document.documentElement.requestFullscreen ||
+        document.documentElement.webkitRequestFullscreen ||
+        document.documentElement.mozRequestFullScreen ||
+        document.documentElement.msRequestFullscreen
+      );
+
+      if (req) {
+        try {
+          const promise = req.call(viewerDialog);
+          if (promise && typeof promise.catch === 'function') {
+            promise.catch(() => {
+              try {
+                if (document.documentElement.requestFullscreen) {
+                  document.documentElement.requestFullscreen().catch(() => {});
+                }
+              } catch (_) {}
+            });
+          }
+        } catch (_) {
+          try {
+            if (document.documentElement.requestFullscreen) {
+              document.documentElement.requestFullscreen();
+            }
+          } catch (_) {}
+        }
+      }
+    } else {
+      // 1. Remove CSS maximize mode
+      viewerDialog.classList.remove('is-fullscreen');
+      document.body.classList.remove('viewer-is-fullscreen');
+      updateFullscreenUI(false);
+
+      // 2. Exit native fullscreen if active
+      const hasNativeFs = !!(
+        document.fullscreenElement ||
+        document.webkitFullscreenElement ||
+        document.mozFullScreenElement ||
+        document.msFullscreenElement
+      );
+
+      if (hasNativeFs) {
+        const exit = (
+          document.exitFullscreen ||
+          document.webkitExitFullscreen ||
+          document.mozCancelFullScreen ||
+          document.msExitFullscreen
+        );
+        if (exit) {
+          try {
+            const promise = exit.call(document);
+            if (promise && typeof promise.catch === 'function') {
+              promise.catch(() => {});
+            }
+          } catch (_) {}
+        }
+      }
+    }
+  }
+
+  function handleNativeFullscreenChange() {
+    const hasNativeFs = !!(
+      document.fullscreenElement ||
+      document.webkitFullscreenElement ||
+      document.mozFullScreenElement ||
+      document.msFullscreenElement
+    );
+
+    if (hasNativeFs) {
+      viewerDialog.classList.add('is-fullscreen');
+      document.body.classList.add('viewer-is-fullscreen');
+      updateFullscreenUI(true);
+    } else if (!viewerDialog.classList.contains('is-fullscreen')) {
+      updateFullscreenUI(false);
+    }
   }
 
   // Zoom management

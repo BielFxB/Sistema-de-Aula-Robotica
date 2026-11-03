@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=2">
+  <link rel="stylesheet" href="style.css?v=3">
 </head>
 <body data-active-course="all">
   <header class="app-header">
@@ -206,11 +206,14 @@
           </button>
         </div>
 
-        <button type="button" id="btn-fullscreen" class="tool-btn-pill" title="Apresentar em tela cheia (F11)">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <button type="button" id="btn-fullscreen" class="tool-btn-pill" title="Apresentar em tela cheia (F ou F11)">
+          <svg class="fs-icon-enter" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>
           </svg>
-          <span>Tela Cheia</span>
+          <svg class="fs-icon-exit" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>
+          </svg>
+          <span class="fs-label">Tela Cheia</span>
         </button>
 
         <form method="dialog">
@@ -257,7 +260,7 @@
   </dialog>
 
   <!-- Load static data for offline file:// support; falls back to fetch if available -->
-  <script src="tutorials-data.js?v=2"></script>
-  <script src="app.js?v=2"></script>
+  <script src="tutorials-data.js?v=3"></script>
+  <script src="app.js?v=3"></script>
 </body>
 </html>
