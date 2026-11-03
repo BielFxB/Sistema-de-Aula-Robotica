@@ -103,19 +103,35 @@
     applyTheme(next);
   }
 
-  // Update Counters in Navigation Tabs
+  // Update Counters in Navigation Tabs and Footer
   function updateCounters() {
     const total = allTutorials.length;
     const fbCount = allTutorials.filter(t => t.course === 'firstbot').length;
     const obCount = allTutorials.filter(t => t.course === 'onebot').length;
     const tbCount = allTutorials.filter(t => t.course === 'techbot').length;
     const skCount = allTutorials.filter(t => t.course === 'skillbot').length;
+    const mrCount = allTutorials.filter(t => t.isMr || (t.id && t.id.startsWith('mr-'))).length;
 
     countAll.textContent = total;
     countFirstbot.textContent = fbCount;
     countOnebot.textContent = obCount;
     countTechbot.textContent = tbCount;
     if (countSkillbot) countSkillbot.textContent = skCount;
+
+    // Update Footer Stats
+    const footFb = document.getElementById('foot-firstbot');
+    const footOb = document.getElementById('foot-onebot');
+    const footTb = document.getElementById('foot-techbot');
+    const footSk = document.getElementById('foot-skillbot');
+    const footMr = document.getElementById('foot-mr');
+    const footTotal = document.getElementById('footer-total-badge');
+
+    if (footFb) footFb.textContent = fbCount;
+    if (footOb) footOb.textContent = obCount;
+    if (footTb) footTb.textContent = tbCount;
+    if (footSk) footSk.textContent = skCount;
+    if (footMr) footMr.textContent = mrCount;
+    if (footTotal) footTotal.textContent = `Total: ${total} projetos`;
   }
 
   // Event Listeners
