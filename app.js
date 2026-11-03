@@ -183,12 +183,41 @@
 
     // Fullscreen Toggle
     btnFullscreen.addEventListener('click', () => {
-      if (!document.fullscreenElement) {
-        viewerDialog.requestFullscreen().catch(err => console.log(err));
+      const isFullscreen = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
+
+      if (!isFullscreen) {
+        if (viewerDialog.requestFullscreen) {
+          viewerDialog.requestFullscreen().catch(err => console.warn('Erro ao ativar tela cheia:', err));
+        } else if (viewerDialog.webkitRequestFullscreen) {
+          viewerDialog.webkitRequestFullscreen();
+        } else if (viewerDialog.msRequestFullscreen) {
+          viewerDialog.msRequestFullscreen();
+        } else if (document.documentElement.requestFullscreen) {
+          document.documentElement.requestFullscreen().catch(err => console.warn(err));
+        }
       } else {
-        document.exitFullscreen().catch(err => console.log(err));
+        if (document.exitFullscreen) {
+          document.exitFullscreen().catch(err => console.warn('Erro ao sair de tela cheia:', err));
+        } else if (document.webkitExitFullscreen) {
+          document.webkitExitFullscreen();
+        } else if (document.msExitFullscreen) {
+          document.msExitFullscreen();
+        }
       }
     });
+
+    // Update Fullscreen button icon / text when state changes
+    document.addEventListener('fullscreenchange', updateFullscreenState);
+    document.addEventListener('webkitfullscreenchange', updateFullscreenState);
+
+    function updateFullscreenState() {
+      const isFs = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
+      const span = btnFullscreen.querySelector('span');
+      if (span) {
+        span.textContent = isFs ? 'Sair da Tela Cheia' : 'Tela Cheia';
+      }
+      btnFullscreen.classList.toggle('active', isFs);
+    }
 
     // Zoom Controls
     if (btnZoomIn) {

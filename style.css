@@ -745,6 +745,8 @@ li.tab-item.active .tab-counter {
   box-shadow: var(--shadow-overlay);
   width: min(96vw, 1420px);
   height: min(94vh, 920px);
+  max-width: 100vw;
+  max-height: 100vh;
   margin: auto;
   padding: 0;
   background: var(--color-surface);
@@ -753,6 +755,17 @@ li.tab-item.active .tab-counter {
   flex-direction: column;
   overflow: hidden;
   position: relative;
+}
+
+/* Fullscreen mode styles */
+.slide-dialog:fullscreen,
+.slide-dialog:-webkit-full-screen {
+  width: 100vw !important;
+  height: 100vh !important;
+  max-width: 100vw !important;
+  max-height: 100vh !important;
+  border-radius: 0 !important;
+  border: none !important;
 }
 
 .slide-dialog:not([open]) {
