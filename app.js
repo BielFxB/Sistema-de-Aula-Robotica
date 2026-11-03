@@ -1,5 +1,5 @@
 /**
- * Bancada de Robótica - Interactive Step-by-Step Slide Presentation Logic
+ * Robótica - Interactive Step-by-Step Slide Presentation Logic
  * Supports offline file:// and web server http:// modes
  */
 
@@ -10,6 +10,12 @@
   let allTutorials = [];
   let currentTutorial = null;
   let currentSlideIndex = 0;
+  let zoomLevel = 1;
+  let isPanning = false;
+  let panStartX = 0;
+  let panStartY = 0;
+  let panCurrentX = 0;
+  let panCurrentY = 0;
 
   const state = {
     activeCourse: 'all',
@@ -27,6 +33,7 @@
   const sortSelect = document.getElementById('sort-select');
   const courseTabs = document.getElementById('course-tabs');
   const btnResetFilters = document.getElementById('btn-reset-filters');
+  const btnThemeToggle = document.getElementById('btn-theme-toggle');
 
   // Counter Elements
   const countAll = document.getElementById('count-all');
@@ -42,20 +49,23 @@
   const viewerRobotName = document.getElementById('viewer-robot-name');
   const viewerCoursePill = document.getElementById('viewer-course-pill');
   const viewerLevelPill = document.getElementById('viewer-level-pill');
-  const viewerDownloadBtn = document.getElementById('viewer-download-btn');
   const activeSlideImg = document.getElementById('active-slide-img');
+  const slideImageCard = document.getElementById('slide-image-card');
   const btnPrevSlide = document.getElementById('btn-prev-slide');
   const btnNextSlide = document.getElementById('btn-next-slide');
   const slideFilmstrip = document.getElementById('slide-filmstrip');
   const btnFullscreen = document.getElementById('btn-fullscreen');
-  const btnModeSlides = document.getElementById('btn-mode-slides');
-  const btnModePdf = document.getElementById('btn-mode-pdf');
-  const slidesViewportWrap = document.getElementById('slides-viewport-wrap');
-  const pdfFallbackView = document.getElementById('pdf-fallback-view');
-  const viewerPdfFrame = document.getElementById('viewer-pdf-frame');
+
+  // Zoom Elements
+  const btnZoomIn = document.getElementById('btn-zoom-in');
+  const btnZoomOut = document.getElementById('btn-zoom-out');
+  const btnZoomReset = document.getElementById('btn-zoom-reset');
+  const zoomLevelText = document.getElementById('zoom-level-text');
 
   // Initialize
   async function init() {
+    initTheme();
+
     if (window.TUTORIALS_DATA && Array.isArray(window.TUTORIALS_DATA)) {
       allTutorials = window.TUTORIALS_DATA;
     } else {
@@ -70,6 +80,25 @@
     updateCounters();
     bindEvents();
     render();
+  }
+
+  // Theme Management (Dark / Light)
+  function initTheme() {
+    const savedTheme = localStorage.getItem('robotica-theme');
+    const systemPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const initialTheme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+    applyTheme(initialTheme);
+  }
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('robotica-theme', theme);
+  }
+
+  function toggleTheme() {
+    const current = document.documentElement.getAttribute('data-theme') || 'light';
+    const next = current === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
   }
 
   // Update Counters in Navigation Tabs
@@ -119,6 +148,11 @@
       render();
     });
 
+    // Theme Toggle
+    if (btnThemeToggle) {
+      btnThemeToggle.addEventListener('click', toggleTheme);
+    }
+
     // Reset Filters
     btnResetFilters.addEventListener('click', () => {
       searchInput.value = '';
@@ -143,9 +177,50 @@
       }
     });
 
-    // View Mode Toggle (Slides vs PDF)
-    btnModeSlides.addEventListener('click', () => switchViewMode('slides'));
-    btnModePdf.addEventListener('click', () => switchViewMode('pdf'));
+    // Zoom Controls
+    if (btnZoomIn) {
+      btnZoomIn.addEventListener('click', () => setZoom(zoomLevel + 0.25));
+    }
+    if (btnZoomOut) {
+      btnZoomOut.addEventListener('click', () => setZoom(zoomLevel - 0.25));
+    }
+    if (btnZoomReset) {
+      btnZoomReset.addEventListener('click', () => resetZoom());
+    }
+
+    // Zoom via Mouse Wheel on slide frame
+    const slideFrame = document.getElementById('slide-frame');
+    if (slideFrame) {
+      slideFrame.addEventListener('wheel', (e) => {
+        if (!e.ctrlKey && !e.metaKey && e.deltaY === 0) return;
+        e.preventDefault();
+        const delta = e.deltaY < 0 ? 0.2 : -0.2;
+        setZoom(zoomLevel + delta);
+      }, { passive: false });
+
+      // Pan image by dragging when zoomed in
+      slideFrame.addEventListener('mousedown', (e) => {
+        if (zoomLevel <= 1) return;
+        isPanning = true;
+        panStartX = e.clientX - panCurrentX;
+        panStartY = e.clientY - panCurrentY;
+        slideFrame.classList.add('is-panning');
+      });
+
+      window.addEventListener('mousemove', (e) => {
+        if (!isPanning) return;
+        panCurrentX = e.clientX - panStartX;
+        panCurrentY = e.clientY - panStartY;
+        applyZoomTransform();
+      });
+
+      window.addEventListener('mouseup', () => {
+        if (isPanning) {
+          isPanning = false;
+          if (slideFrame) slideFrame.classList.remove('is-panning');
+        }
+      });
+    }
 
     // Keyboard Shortcuts for Slide Presentation
     window.addEventListener('keydown', (e) => {
@@ -163,12 +238,21 @@
       } else if (e.key === 'End' && currentTutorial) {
         e.preventDefault();
         goToSlide(currentTutorial.slides.length - 1);
+      } else if (e.key === '+' || e.key === '=') {
+        e.preventDefault();
+        setZoom(zoomLevel + 0.25);
+      } else if (e.key === '-' || e.key === '_') {
+        e.preventDefault();
+        setZoom(zoomLevel - 0.25);
+      } else if (e.key === '0') {
+        e.preventDefault();
+        resetZoom();
       }
     });
 
-    // Reset mode on dialog close
+    // Reset zoom on dialog close
     viewerDialog.addEventListener('close', () => {
-      switchViewMode('slides');
+      resetZoom();
     });
   }
 
@@ -332,17 +416,13 @@
 
     currentTutorial = item;
     currentSlideIndex = 0;
+    resetZoom();
 
     // Header info
     viewerRobotName.textContent = `${item.title} (${item.originalTitle})`;
     viewerCoursePill.textContent = item.courseName;
     viewerCoursePill.className = `dialog-course-pill dot-${item.course}`;
     viewerLevelPill.textContent = item.level;
-    viewerDownloadBtn.href = item.pdf;
-    viewerDownloadBtn.setAttribute('download', `${item.id}_${item.title}.pdf`);
-
-    // PDF fallback frame
-    viewerPdfFrame.src = item.pdf;
 
     // Render Bottom Filmstrip Step Tiles
     slideFilmstrip.innerHTML = item.slides.map((s, idx) => {
@@ -368,15 +448,50 @@
 
     // Display first slide
     updateSlideDisplay();
-    switchViewMode('slides');
 
     // Show modal dialog
     viewerDialog.showModal();
   }
 
+  // Zoom management
+  function setZoom(level) {
+    // Clamp zoom between 100% (1.0) and 300% (3.0)
+    zoomLevel = Math.max(1, Math.min(3, Math.round(level * 100) / 100));
+    if (zoomLevel === 1) {
+      panCurrentX = 0;
+      panCurrentY = 0;
+    }
+    applyZoomTransform();
+  }
+
+  function resetZoom() {
+    zoomLevel = 1;
+    panCurrentX = 0;
+    panCurrentY = 0;
+    applyZoomTransform();
+  }
+
+  function applyZoomTransform() {
+    if (zoomLevelText) {
+      zoomLevelText.textContent = `${Math.round(zoomLevel * 100)}%`;
+    }
+    if (activeSlideImg) {
+      activeSlideImg.style.transform = `scale(${zoomLevel}) translate(${panCurrentX / zoomLevel}px, ${panCurrentY / zoomLevel}px)`;
+      activeSlideImg.style.cursor = zoomLevel > 1 ? (isPanning ? 'grabbing' : 'grab') : 'default';
+    }
+    if (btnZoomOut) {
+      btnZoomOut.disabled = zoomLevel <= 1;
+    }
+    if (btnZoomIn) {
+      btnZoomIn.disabled = zoomLevel >= 3;
+    }
+  }
+
   // Update Center Slide Display
   function updateSlideDisplay() {
     if (!currentTutorial || !currentTutorial.slides.length) return;
+
+    resetZoom();
 
     const total = currentTutorial.slides.length;
     const currentSlide = currentTutorial.slides[currentSlideIndex];
@@ -420,24 +535,6 @@
     if (index >= 0 && index < currentTutorial.slides.length) {
       currentSlideIndex = index;
       updateSlideDisplay();
-    }
-  }
-
-  function switchViewMode(mode) {
-    if (mode === 'slides') {
-      btnModeSlides.classList.add('active');
-      btnModeSlides.setAttribute('aria-selected', 'true');
-      btnModePdf.classList.remove('active');
-      btnModePdf.setAttribute('aria-selected', 'false');
-      slidesViewportWrap.hidden = false;
-      pdfFallbackView.hidden = true;
-    } else {
-      btnModePdf.classList.add('active');
-      btnModePdf.setAttribute('aria-selected', 'true');
-      btnModeSlides.classList.remove('active');
-      btnModeSlides.setAttribute('aria-selected', 'false');
-      slidesViewportWrap.hidden = true;
-      pdfFallbackView.hidden = false;
     }
   }
 

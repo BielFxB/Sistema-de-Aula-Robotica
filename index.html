@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bancada de Robótica | Slides de Montagem Passo a Passo</title>
+  <title>Robótica</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
@@ -21,23 +21,42 @@
           </svg>
         </div>
         <div>
-          <h1 class="brand-title">Bancada de Robótica</h1>
+          <h1 class="brand-title">Robótica</h1>
         </div>
       </div>
 
-      <search class="header-search">
-        <form id="search-form" action="/search" method="GET" role="search" onsubmit="event.preventDefault()">
-          <label for="search-input" class="visually-hidden">Buscar robôs</label>
-          <div class="search-input-wrap">
-            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <circle cx="11" cy="11" r="8"></circle>
-              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-            </svg>
-            <input type="search" id="search-input" name="q" placeholder="Buscar robô por nome (ex: Pato, Helicóptero, Carro, F-15...)" autocomplete="off">
-            <button type="button" id="search-clear" class="search-clear-btn" aria-label="Limpar busca" hidden>✕</button>
-          </div>
-        </form>
-      </search>
+      <div class="header-actions">
+        <search class="header-search">
+          <form id="search-form" action="/search" method="GET" role="search" onsubmit="event.preventDefault()">
+            <label for="search-input" class="visually-hidden">Buscar robôs</label>
+            <div class="search-input-wrap">
+              <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <input type="search" id="search-input" name="q" placeholder="Buscar robô por nome (ex: Pato, Helicóptero, Carro, F-15...)" autocomplete="off">
+              <button type="button" id="search-clear" class="search-clear-btn" aria-label="Limpar busca" hidden>✕</button>
+            </div>
+          </form>
+        </search>
+
+        <button type="button" id="btn-theme-toggle" class="theme-toggle-btn" aria-label="Alternar tema claro/escuro" title="Alternar tema claro/escuro">
+          <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
     </div>
 
     <!-- Course Navigation Tabs -->
@@ -118,7 +137,7 @@
   <footer class="app-footer">
     <div class="footer-inner">
       <div class="footer-meta">
-        <strong>Bancada de Robótica</strong> — Sistema de apresentação de slides de montagem para alunos e professores.
+        <strong>Robótica</strong> — Sistema de apresentação de slides de montagem para alunos e professores.
       </div>
       <div class="footer-stats">
         <span>FirstBot: 28</span>
@@ -149,16 +168,22 @@
       </div>
 
       <div class="slide-header-controls">
-        <div class="view-mode-toggle" role="tablist" aria-label="Modo de visualização">
-          <button type="button" class="mode-btn active" id="btn-mode-slides" role="tab" aria-selected="true">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-              <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
-              <line x1="8" y1="21" x2="16" y2="21"></line>
-              <line x1="12" y1="17" x2="12" y2="21"></line>
+        <!-- Zoom Controls -->
+        <div class="zoom-controls" role="group" aria-label="Controles de zoom">
+          <button type="button" id="btn-zoom-out" class="zoom-btn" title="Diminuir zoom (–)" aria-label="Diminuir zoom">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
             </svg>
-            Slides
           </button>
-          <button type="button" class="mode-btn" id="btn-mode-pdf" role="tab" aria-selected="false">PDF Completo</button>
+          <button type="button" id="btn-zoom-reset" class="zoom-level-btn" title="Redefinir zoom (100%)" aria-label="Redefinir zoom">
+            <span id="zoom-level-text">100%</span>
+          </button>
+          <button type="button" id="btn-zoom-in" class="zoom-btn" title="Aumentar zoom (+)" aria-label="Aumentar zoom">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </button>
         </div>
 
         <button type="button" id="btn-fullscreen" class="tool-btn-pill" title="Apresentar em tela cheia (F11)">
@@ -168,15 +193,6 @@
           <span>Tela Cheia</span>
         </button>
 
-        <a id="viewer-download-btn" href="#" download class="tool-btn-pill" title="Baixar PDF do manual">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-            <polyline points="7 10 12 15 17 10"></polyline>
-            <line x1="12" y1="15" x2="12" y2="3"></line>
-          </svg>
-          <span>PDF</span>
-        </a>
-
         <form method="dialog">
           <button type="submit" class="btn-close" aria-label="Fechar apresentação">✕</button>
         </form>
@@ -185,7 +201,6 @@
 
     <!-- Presentation Main Stage -->
     <div class="slide-stage" id="slide-stage">
-      <!-- Slides View -->
       <div class="slides-viewport-wrap" id="slides-viewport-wrap">
         <button type="button" class="slide-nav-btn nav-btn-prev" id="btn-prev-slide" aria-label="Slide anterior">
           <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -195,8 +210,8 @@
         </button>
 
         <div class="slide-frame" id="slide-frame">
-          <div class="slide-image-card">
-            <img id="active-slide-img" class="active-slide-img" src="" alt="Passo de montagem do robô">
+          <div class="slide-image-card" id="slide-image-card">
+            <img id="active-slide-img" class="active-slide-img" src="" alt="Passo de montagem do robô" draggable="false">
           </div>
         </div>
 
@@ -206,11 +221,6 @@
           </svg>
           <span class="nav-key-hint">→</span>
         </button>
-      </div>
-
-      <!-- Native PDF Fallback View -->
-      <div class="pdf-fallback-view" id="pdf-fallback-view" hidden>
-        <iframe id="viewer-pdf-frame" src="" title="Visualizador do PDF formatado" loading="lazy"></iframe>
       </div>
     </div>
 
