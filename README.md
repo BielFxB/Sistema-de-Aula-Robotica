@@ -4,18 +4,6 @@ Sistema interativo de apresentação de **slides de montagem passo a passo** par
 
 ---
 
-## 🚀 Como Abrir e Usar o Sistema
-
-O sistema é **100% autônomo, offline e não necessita de internet ou instalação**:
-1. Basta dar um duplo clique no arquivo [`index.html`](./index.html) para abrir diretamente no navegador padrão (Chrome, Edge, Firefox, etc.).
-2. Ou, se preferir rodar via servidor local na rede da escola/sala de aula:
-   ```bash
-   py -m http.server 8080
-   ```
-   E acesse: `http://localhost:8080`
-
----
-
 ## 📽️ Modo Slide: Cada Passo em uma Imagem Separada
 
 Ao clicar em **"Apresentar Slides"** em qualquer robô do catálogo:
