@@ -14,6 +14,7 @@ Ao clicar em qualquer robô do catálogo:
   3. **Penúltimo Slide — Montagem Concluída (`OK`):** Foto/render do modelo totalmente construído.
   4. **Último Slide — Ligação Eletrônica:** Diagrama de conexão dos cabos, motores e sensores nas portas da placa controladora.
 - **Navegação e Recursos:**
+  - **Filtro de Aulas "MR":** botão direto na barra de ferramentas para filtrar instantaneamente as 188 aulas complementares do acervo My Robot (First, One e Tech).
   - **Zoom interativo na imagem:** botões `+` e `–`, atalhos de teclado (`+`, `-`, `0`), ou roda do mouse (scroll) e arrastar para explorar detalhes da montagem.
   - **Tema Claro e Escuro:** botão no cabeçalho com alternância e persistência automática.
   - Botões na tela (`← Anterior` e `Próximo →`).
@@ -26,13 +27,13 @@ Ao clicar em qualquer robô do catálogo:
 
 ## 📚 Distribuição dos Cursos e Projetos
 
-| Curso | Plataforma | Qtd. de Projetos | Total de Slides de Passo | Descrição |
+| Curso | Plataforma / Origem | Qtd. de Projetos | Total de Slides | Descrição |
 | :--- | :--- | :---: | :---: | :--- |
-| **FirstBot** | MRT1 Brain A + Logix5 | **28** | **906 slides** | Robótica introdutória com blocos modulares grandes de pinos e encaixe tátil, sensores de toque e motores DC. |
-| **OneBot** | MRT3 (Foundation, Beginner, Intermediate) | **32** | **1.081 slides** | Robótica mecânica com engrenagens, polias, bielas, sensores infravermelhos (IR), toque, som, motores DC e servomotores. |
-| **TechBot** | MRT-Duino (Arduino) | **10** | **178 slides** | Robótica avançada com estrutura de perfis de alumínio, parafusos/porcas, LEDs, sensor de luz CdS, buzzer, servomotor e potenciômetro. |
-| **SkillBot** | AI Module 1S-A & 1S-B | **48** | **497 slides** | Robótica inteligente e programação em blocos com motores de malha fechada, engrenagens cônicas e sensores. |
-| **TOTAL** | — | **118** | **2.662 slides** | Acervo permanente completo |
+| **FirstBot** | Padrão (28) + MR (58) | **86** | **2.117 slides** | Blocos modulares grandes de pinos, adaptadores, motores e sensores de toque. |
+| **OneBot** | Padrão (32) + MR (75) | **107** | **2.915 slides** | Engrenagens coloridas, vigas, polias, bielas, eixos e sensores. |
+| **TechBot** | Padrão (10) + MR (55) | **65** | **1.179 slides** | Perfis de alumínio/placas perfuradas pretas, parafusos, garras e componentes eletrônicos. |
+| **SkillBot** | AI Module 1S-A & 1S-B | **48** | **485 slides** | Robótica inteligente e programação em blocos com motores de malha fechada. |
+| **TOTAL** | — | **306** | **6.696 slides** | Acervo completo com filtro dedicado "MR" |
 
 ---
 

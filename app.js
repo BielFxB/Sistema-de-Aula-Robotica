@@ -19,6 +19,7 @@
 
   const state = {
     activeCourse: 'all',
+    activeSource: 'all', // 'all', 'mr', 'standard'
     searchQuery: '',
     sortBy: 'default'
   };
@@ -151,6 +152,14 @@
       render();
     });
 
+    // Source / MR Filter Buttons
+    document.querySelectorAll('.source-filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const source = btn.getAttribute('data-source');
+        setSourceFilter(source);
+      });
+    });
+
     // Theme Toggle
     if (btnThemeToggle) {
       btnThemeToggle.addEventListener('click', toggleTheme);
@@ -162,6 +171,7 @@
       state.searchQuery = '';
       searchClearBtn.hidden = true;
       setCourse('all');
+      setSourceFilter('all');
       sortSelect.value = 'default';
       state.sortBy = 'default';
       render();
@@ -274,6 +284,16 @@
     render();
   }
 
+  // Set Source / MR Filter
+  function setSourceFilter(source) {
+    state.activeSource = source;
+    document.querySelectorAll('.source-filter-btn').forEach(btn => {
+      const match = btn.getAttribute('data-source') === source;
+      btn.classList.toggle('active', match);
+    });
+    render();
+  }
+
   // Filter and Sort Pipeline
   function getFilteredTutorials() {
     let list = [...allTutorials];
@@ -281,6 +301,13 @@
     // Filter by Course
     if (state.activeCourse !== 'all') {
       list = list.filter(t => t.course === state.activeCourse);
+    }
+
+    // Filter by Source (MR vs Standard)
+    if (state.activeSource === 'mr') {
+      list = list.filter(t => t.sourceType === 'mr');
+    } else if (state.activeSource === 'standard') {
+      list = list.filter(t => t.sourceType !== 'mr');
     }
 
     // Filter by Search Query
@@ -315,8 +342,13 @@
     
     let filterDetails = [];
     if (state.activeCourse !== 'all') {
-      const cNames = { firstbot: 'FirstBot', onebot: 'OneBot', techbot: 'TechBot' };
+      const cNames = { firstbot: 'FirstBot', onebot: 'OneBot', techbot: 'TechBot', skillbot: 'SkillBot' };
       filterDetails.push(`Curso: ${cNames[state.activeCourse]}`);
+    }
+    if (state.activeSource === 'mr') {
+      filterDetails.push('Filtro: Aulas MR');
+    } else if (state.activeSource === 'standard') {
+      filterDetails.push('Filtro: Aulas Padrão');
     }
     if (state.searchQuery) {
       filterDetails.push(`Busca: "${state.searchQuery}"`);
@@ -336,12 +368,16 @@
       const courseClass = `course-${item.course}`;
       const isPriority = index < 6;
       const slideTotal = item.slideCount || (item.slides ? item.slides.length : item.steps);
+      const isMr = item.sourceType === 'mr';
 
       return `
-        <article class="robot-card ${courseClass}" data-id="${item.id}" style="--card-accent: var(--color-${item.course}); --card-accent-subtle: var(--color-${item.course}-subtle)">
+        <article class="robot-card ${courseClass} ${isMr ? 'card-is-mr' : ''}" data-id="${item.id}" style="--card-accent: var(--color-${item.course}); --card-accent-subtle: var(--color-${item.course}-subtle)">
           <div class="card-header">
             <span class="card-num-badge">#${escapeHtml(item.id.toUpperCase())}</span>
-            <span class="card-level-tag">${escapeHtml(item.level)}</span>
+            <div class="card-tags-header">
+              ${isMr ? '<span class="mr-pill-badge" title="Material complementar My Robot">MR</span>' : ''}
+              <span class="card-level-tag">${escapeHtml(item.level)}</span>
+            </div>
           </div>
 
           <div class="card-image-wrap btn-open-slides" data-id="${item.id}" title="Clique para abrir os slides de montagem">

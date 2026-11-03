@@ -105,19 +105,30 @@
     <div class="toolbar-controls-bar">
       <!-- Results feedback -->
       <div class="results-bar">
-        <span id="results-count" class="results-count">Exibindo 70 projetos</span>
+        <span id="results-count" class="results-count">Exibindo projetos</span>
         <span id="active-filter-desc" class="active-filter-desc"></span>
       </div>
 
-      <!-- Sorting -->
-      <div class="sort-wrap">
-        <label for="sort-select">Ordenar:</label>
-        <select id="sort-select" aria-label="Ordenar tutoriais">
-          <option value="default">Padrão do curso</option>
-          <option value="name">Nome (A–Z)</option>
-          <option value="steps-desc">Mais passos</option>
-          <option value="steps-asc">Menos passos</option>
-        </select>
+      <div class="toolbar-right-controls">
+        <!-- Source / MR Filter Chips -->
+        <div class="source-filter-group" role="group" aria-label="Filtrar por tipo de aula">
+          <button type="button" class="source-filter-btn active" data-source="all">Todas as Aulas</button>
+          <button type="button" class="source-filter-btn mr-badge-btn" data-source="mr" title="Exibir apenas as aulas do acervo MR">
+            <span class="mr-star">✦</span> Aulas MR
+          </button>
+          <button type="button" class="source-filter-btn" data-source="standard">Padrão</button>
+        </div>
+
+        <!-- Sorting -->
+        <div class="sort-wrap">
+          <label for="sort-select">Ordenar:</label>
+          <select id="sort-select" aria-label="Ordenar tutoriais">
+            <option value="default">Padrão do curso</option>
+            <option value="name">Nome (A–Z)</option>
+            <option value="steps-desc">Mais passos</option>
+            <option value="steps-asc">Menos passos</option>
+          </select>
+        </div>
       </div>
     </div>
 
@@ -147,11 +158,12 @@
         <strong>Robótica</strong> — Sistema de apresentação de slides de montagem para alunos e professores.
       </div>
       <div class="footer-stats">
-        <span>FirstBot: 28</span>
-        <span>OneBot: 32</span>
-        <span>TechBot: 10</span>
-        <span>SkillBot: 48</span>
-        <span class="total-badge" id="footer-total-badge">Total: 118 projetos</span>
+        <span>FirstBot: <strong id="foot-firstbot">86</strong></span>
+        <span>OneBot: <strong id="foot-onebot">107</strong></span>
+        <span>TechBot: <strong id="foot-techbot">65</strong></span>
+        <span>SkillBot: <strong id="foot-skillbot">48</strong></span>
+        <span>MR: <strong id="foot-mr">188</strong></span>
+        <span class="total-badge" id="footer-total-badge">Total: 306 projetos</span>
       </div>
     </div>
   </footer>

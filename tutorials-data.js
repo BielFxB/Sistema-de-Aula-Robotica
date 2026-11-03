@@ -119,7 +119,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-01/slide_16.webp"
       }
     ],
-    "slideCount": 16
+    "slideCount": 16,
+    "sourceType": "standard"
   },
   {
     "id": "fb-02",
@@ -351,7 +352,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-02/slide_34.webp"
       }
     ],
-    "slideCount": 34
+    "slideCount": 34,
+    "sourceType": "standard"
   },
   {
     "id": "fb-03",
@@ -546,7 +548,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-03/slide_28.webp"
       }
     ],
-    "slideCount": 28
+    "slideCount": 28,
+    "sourceType": "standard"
   },
   {
     "id": "fb-04",
@@ -704,7 +707,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-04/slide_22.webp"
       }
     ],
-    "slideCount": 22
+    "slideCount": 22,
+    "sourceType": "standard"
   },
   {
     "id": "fb-05",
@@ -936,7 +940,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-05/slide_34.webp"
       }
     ],
-    "slideCount": 34
+    "slideCount": 34,
+    "sourceType": "standard"
   },
   {
     "id": "fb-06",
@@ -1242,7 +1247,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-06/slide_46.webp"
       }
     ],
-    "slideCount": 46
+    "slideCount": 46,
+    "sourceType": "standard"
   },
   {
     "id": "fb-07",
@@ -1438,7 +1444,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-07/slide_28.webp"
       }
     ],
-    "slideCount": 28
+    "slideCount": 28,
+    "sourceType": "standard"
   },
   {
     "id": "fb-08",
@@ -1559,7 +1566,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-08/slide_16.webp"
       }
     ],
-    "slideCount": 16
+    "slideCount": 16,
+    "sourceType": "standard"
   },
   {
     "id": "fb-09",
@@ -1865,7 +1873,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-09/slide_46.webp"
       }
     ],
-    "slideCount": 46
+    "slideCount": 46,
+    "sourceType": "standard"
   },
   {
     "id": "fb-10",
@@ -2122,7 +2131,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-10/slide_38.webp"
       }
     ],
-    "slideCount": 38
+    "slideCount": 38,
+    "sourceType": "standard"
   },
   {
     "id": "fb-11",
@@ -2465,7 +2475,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-11/slide_52.webp"
       }
     ],
-    "slideCount": 52
+    "slideCount": 52,
+    "sourceType": "standard"
   },
   {
     "id": "fb-12",
@@ -2845,7 +2856,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-12/slide_58.webp"
       }
     ],
-    "slideCount": 58
+    "slideCount": 58,
+    "sourceType": "standard"
   },
   {
     "id": "fb-13",
@@ -2990,7 +3002,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-13/slide_20.webp"
       }
     ],
-    "slideCount": 20
+    "slideCount": 20,
+    "sourceType": "standard"
   },
   {
     "id": "fb-14",
@@ -3246,7 +3259,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-14/slide_38.webp"
       }
     ],
-    "slideCount": 38
+    "slideCount": 38,
+    "sourceType": "standard"
   },
   {
     "id": "fb-15",
@@ -3434,7 +3448,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-15/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "fb-16",
@@ -3586,7 +3601,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-16/slide_21.webp"
       }
     ],
-    "slideCount": 21
+    "slideCount": 21,
+    "sourceType": "standard"
   },
   {
     "id": "fb-17",
@@ -3774,7 +3790,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-17/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "fb-18",
@@ -3962,7 +3979,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-18/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "fb-19",
@@ -4188,7 +4206,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-19/slide_33.webp"
       }
     ],
-    "slideCount": 33
+    "slideCount": 33,
+    "sourceType": "standard"
   },
   {
     "id": "fb-20",
@@ -4359,7 +4378,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-20/slide_24.webp"
       }
     ],
-    "slideCount": 24
+    "slideCount": 24,
+    "sourceType": "standard"
   },
   {
     "id": "fb-21",
@@ -4548,7 +4568,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-21/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "fb-22",
@@ -4731,7 +4752,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-22/slide_26.webp"
       }
     ],
-    "slideCount": 26
+    "slideCount": 26,
+    "sourceType": "standard"
   },
   {
     "id": "fb-23",
@@ -4994,7 +5016,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-23/slide_39.webp"
       }
     ],
-    "slideCount": 39
+    "slideCount": 39,
+    "sourceType": "standard"
   },
   {
     "id": "fb-24",
@@ -5288,7 +5311,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-24/slide_44.webp"
       }
     ],
-    "slideCount": 44
+    "slideCount": 44,
+    "sourceType": "standard"
   },
   {
     "id": "fb-25",
@@ -5588,7 +5612,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-25/slide_45.webp"
       }
     ],
-    "slideCount": 45
+    "slideCount": 45,
+    "sourceType": "standard"
   },
   {
     "id": "fb-26",
@@ -5813,7 +5838,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-26/slide_33.webp"
       }
     ],
-    "slideCount": 33
+    "slideCount": 33,
+    "sourceType": "standard"
   },
   {
     "id": "fb-27",
@@ -6076,7 +6102,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-27/slide_39.webp"
       }
     ],
-    "slideCount": 39
+    "slideCount": 39,
+    "sourceType": "standard"
   },
   {
     "id": "fb-28",
@@ -6339,7 +6366,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/fb-28/slide_39.webp"
       }
     ],
-    "slideCount": 39
+    "slideCount": 39,
+    "sourceType": "standard"
   },
   {
     "id": "ob-01",
@@ -6386,7 +6414,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-01/slide_04.webp"
       }
     ],
-    "slideCount": 4
+    "slideCount": 4,
+    "sourceType": "standard"
   },
   {
     "id": "ob-02",
@@ -6433,7 +6462,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-02/slide_04.webp"
       }
     ],
-    "slideCount": 4
+    "slideCount": 4,
+    "sourceType": "standard"
   },
   {
     "id": "ob-03",
@@ -6517,7 +6547,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-03/slide_10.webp"
       }
     ],
-    "slideCount": 10
+    "slideCount": 10,
+    "sourceType": "standard"
   },
   {
     "id": "ob-04",
@@ -6638,7 +6669,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-04/slide_16.webp"
       }
     ],
-    "slideCount": 16
+    "slideCount": 16,
+    "sourceType": "standard"
   },
   {
     "id": "ob-05",
@@ -6759,7 +6791,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-05/slide_16.webp"
       }
     ],
-    "slideCount": 16
+    "slideCount": 16,
+    "sourceType": "standard"
   },
   {
     "id": "ob-06",
@@ -6873,7 +6906,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-06/slide_15.webp"
       }
     ],
-    "slideCount": 15
+    "slideCount": 15,
+    "sourceType": "standard"
   },
   {
     "id": "ob-07",
@@ -7062,7 +7096,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-07/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "ob-08",
@@ -7325,7 +7360,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-08/slide_39.webp"
       }
     ],
-    "slideCount": 39
+    "slideCount": 39,
+    "sourceType": "standard"
   },
   {
     "id": "ob-09",
@@ -7582,7 +7618,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-09/slide_38.webp"
       }
     ],
-    "slideCount": 38
+    "slideCount": 38,
+    "sourceType": "standard"
   },
   {
     "id": "ob-10",
@@ -7777,7 +7814,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-10/slide_28.webp"
       }
     ],
-    "slideCount": 28
+    "slideCount": 28,
+    "sourceType": "standard"
   },
   {
     "id": "ob-11",
@@ -7960,7 +7998,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-11/slide_26.webp"
       }
     ],
-    "slideCount": 26
+    "slideCount": 26,
+    "sourceType": "standard"
   },
   {
     "id": "ob-12",
@@ -8149,7 +8188,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-12/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "ob-13",
@@ -8344,7 +8384,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-13/slide_28.webp"
       }
     ],
-    "slideCount": 28
+    "slideCount": 28,
+    "sourceType": "standard"
   },
   {
     "id": "ob-14",
@@ -8533,7 +8574,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-14/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "ob-15",
@@ -8765,7 +8807,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-15/slide_34.webp"
       }
     ],
-    "slideCount": 34
+    "slideCount": 34,
+    "sourceType": "standard"
   },
   {
     "id": "ob-16",
@@ -8954,7 +8997,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-16/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "ob-17",
@@ -9334,7 +9378,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-17/slide_58.webp"
       }
     ],
-    "slideCount": 58
+    "slideCount": 58,
+    "sourceType": "standard"
   },
   {
     "id": "ob-18",
@@ -9640,7 +9685,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-18/slide_46.webp"
       }
     ],
-    "slideCount": 46
+    "slideCount": 46,
+    "sourceType": "standard"
   },
   {
     "id": "ob-19",
@@ -9866,7 +9912,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-19/slide_33.webp"
       }
     ],
-    "slideCount": 33
+    "slideCount": 33,
+    "sourceType": "standard"
   },
   {
     "id": "ob-20",
@@ -10228,7 +10275,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-20/slide_55.webp"
       }
     ],
-    "slideCount": 55
+    "slideCount": 55,
+    "sourceType": "standard"
   },
   {
     "id": "ob-21",
@@ -10609,7 +10657,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-21/slide_58.webp"
       }
     ],
-    "slideCount": 58
+    "slideCount": 58,
+    "sourceType": "standard"
   },
   {
     "id": "ob-22",
@@ -10978,7 +11027,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-22/slide_56.webp"
       }
     ],
-    "slideCount": 56
+    "slideCount": 56,
+    "sourceType": "standard"
   },
   {
     "id": "ob-23",
@@ -11174,7 +11224,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-23/slide_28.webp"
       }
     ],
-    "slideCount": 28
+    "slideCount": 28,
+    "sourceType": "standard"
   },
   {
     "id": "ob-24",
@@ -11295,7 +11346,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-24/slide_16.webp"
       }
     ],
-    "slideCount": 16
+    "slideCount": 16,
+    "sourceType": "standard"
   },
   {
     "id": "ob-25",
@@ -11541,7 +11593,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-25/slide_36.webp"
       }
     ],
-    "slideCount": 36
+    "slideCount": 36,
+    "sourceType": "standard"
   },
   {
     "id": "ob-26",
@@ -11774,7 +11827,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-26/slide_34.webp"
       }
     ],
-    "slideCount": 34
+    "slideCount": 34,
+    "sourceType": "standard"
   },
   {
     "id": "ob-27",
@@ -12069,7 +12123,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-27/slide_44.webp"
       }
     ],
-    "slideCount": 44
+    "slideCount": 44,
+    "sourceType": "standard"
   },
   {
     "id": "ob-28",
@@ -12375,7 +12430,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-28/slide_46.webp"
       }
     ],
-    "slideCount": 46
+    "slideCount": 46,
+    "sourceType": "standard"
   },
   {
     "id": "ob-29",
@@ -12596,7 +12652,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-29/slide_32.webp"
       }
     ],
-    "slideCount": 32
+    "slideCount": 32,
+    "sourceType": "standard"
   },
   {
     "id": "ob-30",
@@ -12828,7 +12885,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-30/slide_34.webp"
       }
     ],
-    "slideCount": 34
+    "slideCount": 34,
+    "sourceType": "standard"
   },
   {
     "id": "ob-31",
@@ -13135,7 +13193,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-31/slide_46.webp"
       }
     ],
-    "slideCount": 46
+    "slideCount": 46,
+    "sourceType": "standard"
   },
   {
     "id": "ob-32",
@@ -13590,7 +13649,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/ob-32/slide_70.webp"
       }
     ],
-    "slideCount": 70
+    "slideCount": 70,
+    "sourceType": "standard"
   },
   {
     "id": "tb-01",
@@ -13706,7 +13766,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-01/slide_15.webp"
       }
     ],
-    "slideCount": 15
+    "slideCount": 15,
+    "sourceType": "standard"
   },
   {
     "id": "tb-02",
@@ -13822,7 +13883,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-02/slide_15.webp"
       }
     ],
-    "slideCount": 15
+    "slideCount": 15,
+    "sourceType": "standard"
   },
   {
     "id": "tb-03",
@@ -14013,7 +14075,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-03/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "tb-04",
@@ -14166,7 +14229,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-04/slide_21.webp"
       }
     ],
-    "slideCount": 21
+    "slideCount": 21,
+    "sourceType": "standard"
   },
   {
     "id": "tb-05",
@@ -14282,7 +14346,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-05/slide_15.webp"
       }
     ],
-    "slideCount": 15
+    "slideCount": 15,
+    "sourceType": "standard"
   },
   {
     "id": "tb-06",
@@ -14436,7 +14501,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-06/slide_21.webp"
       }
     ],
-    "slideCount": 21
+    "slideCount": 21,
+    "sourceType": "standard"
   },
   {
     "id": "tb-07",
@@ -14515,7 +14581,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-07/slide_09.webp"
       }
     ],
-    "slideCount": 9
+    "slideCount": 9,
+    "sourceType": "standard"
   },
   {
     "id": "tb-08",
@@ -14632,7 +14699,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-08/slide_15.webp"
       }
     ],
-    "slideCount": 15
+    "slideCount": 15,
+    "sourceType": "standard"
   },
   {
     "id": "tb-09",
@@ -14749,7 +14817,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-09/slide_15.webp"
       }
     ],
-    "slideCount": 15
+    "slideCount": 15,
+    "sourceType": "standard"
   },
   {
     "id": "tb-10",
@@ -14941,7 +15010,8 @@ window.TUTORIALS_DATA = [
         "src": "assets/slides/tb-10/slide_27.webp"
       }
     ],
-    "slideCount": 27
+    "slideCount": 27,
+    "sourceType": "standard"
   },
   {
     "id": "sk-01",
@@ -15015,7 +15085,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-01/slide_10.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-02",
@@ -15137,7 +15208,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-02/slide_18.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-03",
@@ -15229,7 +15301,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-03/slide_13.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-04",
@@ -15315,7 +15388,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-04/slide_12.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-05",
@@ -15395,7 +15469,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-05/slide_11.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-06",
@@ -15445,7 +15520,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-06/slide_06.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-07",
@@ -15513,7 +15589,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-07/slide_09.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-08",
@@ -15569,7 +15646,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-08/slide_07.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-09",
@@ -15625,7 +15703,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-09/slide_07.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-10",
@@ -15717,7 +15796,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-10/slide_13.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-11",
@@ -15785,7 +15865,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-11/slide_09.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-12",
@@ -15841,7 +15922,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-12/slide_07.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-13",
@@ -15927,7 +16009,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-13/slide_12.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-14",
@@ -15989,7 +16072,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-14/slide_08.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-15",
@@ -16075,7 +16159,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-15/slide_12.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-16",
@@ -16173,7 +16258,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-16/slide_14.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-17",
@@ -16253,7 +16339,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-17/slide_11.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-18",
@@ -16303,7 +16390,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-18/slide_06.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-19",
@@ -16413,7 +16501,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-19/slide_16.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-20",
@@ -16529,7 +16618,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-20/slide_17.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-21",
@@ -16573,7 +16663,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-21/slide_05.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-22",
@@ -16617,7 +16708,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-22/slide_05.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-23",
@@ -16709,7 +16801,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-23/slide_13.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-24",
@@ -16813,7 +16906,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-24/slide_15.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-25",
@@ -16911,7 +17005,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-25/slide_14.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-26",
@@ -17027,7 +17122,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-26/slide_17.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-27",
@@ -17107,7 +17203,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-27/slide_11.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-28",
@@ -17199,7 +17296,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-28/slide_13.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-29",
@@ -17303,7 +17401,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-29/slide_15.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-30",
@@ -17335,7 +17434,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-30/slide_03.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-31",
@@ -17385,7 +17485,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-31/slide_06.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-32",
@@ -17471,7 +17572,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-32/slide_12.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-33",
@@ -17575,7 +17677,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-33/slide_15.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-34",
@@ -17691,7 +17794,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-34/slide_17.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-35",
@@ -17735,7 +17839,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-35/slide_05.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-36",
@@ -17773,7 +17878,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-36/slide_04.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-37",
@@ -17847,7 +17953,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-37/slide_10.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-38",
@@ -17909,7 +18016,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-38/slide_08.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-39",
@@ -17971,7 +18079,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-39/slide_08.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-40",
@@ -18033,7 +18142,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-40/slide_08.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-41",
@@ -18083,7 +18193,8 @@ window.TUTORIALS_DATA = [
         "type": "finish",
         "src": "assets/slides/sk-41/slide_06.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-42",
@@ -18121,7 +18232,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-42/slide_04.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-43",
@@ -18159,7 +18271,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-43/slide_04.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-44",
@@ -18263,7 +18376,8 @@ window.TUTORIALS_DATA = [
         "type": "wiring",
         "src": "assets/slides/sk-44/slide_15.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-45",
@@ -18325,7 +18439,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-45/slide_08.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-46",
@@ -18369,7 +18484,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-46/slide_05.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-47",
@@ -18419,7 +18535,8 @@ window.TUTORIALS_DATA = [
         "type": "step",
         "src": "assets/slides/sk-47/slide_06.webp"
       }
-    ]
+    ],
+    "sourceType": "standard"
   },
   {
     "id": "sk-48",
@@ -18522,6 +18639,27103 @@ window.TUTORIALS_DATA = [
         "label": "Passo 14",
         "type": "step",
         "src": "assets/slides/sk-48/slide_15.webp"
+      }
+    ],
+    "sourceType": "standard"
+  },
+  {
+    "id": "mr-fb-01",
+    "title": "Montagem da balança",
+    "originalTitle": "Slide 5 (tutorial_slide_5)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 1)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-fb-01.webp",
+    "pdf": "tutoriais/First/tutorial_slide_5",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-01/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-01/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-01/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-02",
+    "title": "Montagem do castelo",
+    "originalTitle": "Slide 29 (tutorial_slide_29)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 2)",
+    "steps": 28,
+    "slideCount": 28,
+    "thumb": "assets/thumbs/mr-fb-02.webp",
+    "pdf": "tutoriais/First/tutorial_slide_29",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-02/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-02/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-02/slide_28.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-03",
+    "title": "Montagem do Minerador",
+    "originalTitle": "Slide 32 (tutorial_slide_32)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 3)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-fb-03.webp",
+    "pdf": "tutoriais/First/tutorial_slide_32",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-03/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-03/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-03/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-04",
+    "title": "Montagem da serpente",
+    "originalTitle": "Slide 63 (tutorial_slide_63)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 5)",
+    "steps": 22,
+    "slideCount": 22,
+    "thumb": "assets/thumbs/mr-fb-04.webp",
+    "pdf": "tutoriais/First/tutorial_slide_63",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-04/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-04/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-04/slide_22.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-05",
+    "title": "Montagem do minerador",
+    "originalTitle": "Slide 64 (tutorial_slide_64)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-fb-05.webp",
+    "pdf": "tutoriais/First/tutorial_slide_64",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-05/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-05/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-05/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-06",
+    "title": "Montagem do Mamute",
+    "originalTitle": "Slide 67 (tutorial_slide_67)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 6)",
+    "steps": 47,
+    "slideCount": 47,
+    "thumb": "assets/thumbs/mr-fb-06.webp",
+    "pdf": "tutoriais/First/tutorial_slide_67",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-06/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Passo 39",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_39.webp"
+      },
+      {
+        "slideNumber": 40,
+        "label": "Passo 40",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_40.webp"
+      },
+      {
+        "slideNumber": 41,
+        "label": "Passo 41",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_41.webp"
+      },
+      {
+        "slideNumber": 42,
+        "label": "Passo 42",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_42.webp"
+      },
+      {
+        "slideNumber": 43,
+        "label": "Passo 43",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_43.webp"
+      },
+      {
+        "slideNumber": 44,
+        "label": "Passo 44",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_44.webp"
+      },
+      {
+        "slideNumber": 45,
+        "label": "Passo 45",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_45.webp"
+      },
+      {
+        "slideNumber": 46,
+        "label": "Passo 46",
+        "type": "step",
+        "src": "assets/slides/mr-fb-06/slide_46.webp"
+      },
+      {
+        "slideNumber": 47,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-06/slide_47.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-07",
+    "title": "Montagem do cachorrinho",
+    "originalTitle": "Slide 68 (tutorial_slide_68)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 4)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-fb-07.webp",
+    "pdf": "tutoriais/First/tutorial_slide_68",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-07/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-07/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-07/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-08",
+    "title": "Montagem do Game Equilíbrio",
+    "originalTitle": "Slide 69 (tutorial_slide_69)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 7)",
+    "steps": 35,
+    "slideCount": 35,
+    "thumb": "assets/thumbs/mr-fb-08.webp",
+    "pdf": "tutoriais/First/tutorial_slide_69",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-08/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-fb-08/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-08/slide_35.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-09",
+    "title": "Montagem do Pedágio",
+    "originalTitle": "Slide 76 (tutorial_slide_76)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-fb-09.webp",
+    "pdf": "tutoriais/First/tutorial_slide_76",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-09/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-09/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-09/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-10",
+    "title": "Montagem do Robô Percussionista",
+    "originalTitle": "Slide 78 (tutorial_slide_78)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 8)",
+    "steps": 35,
+    "slideCount": 35,
+    "thumb": "assets/thumbs/mr-fb-10.webp",
+    "pdf": "tutoriais/First/tutorial_slide_78",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-10/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-fb-10/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-10/slide_35.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-11",
+    "title": "Montagem do Dom Quixote",
+    "originalTitle": "Slide 80 (tutorial_slide_80)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 9)",
+    "steps": 47,
+    "slideCount": 47,
+    "thumb": "assets/thumbs/mr-fb-11.webp",
+    "pdf": "tutoriais/First/tutorial_slide_80",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-11/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Passo 39",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_39.webp"
+      },
+      {
+        "slideNumber": 40,
+        "label": "Passo 40",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_40.webp"
+      },
+      {
+        "slideNumber": 41,
+        "label": "Passo 41",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_41.webp"
+      },
+      {
+        "slideNumber": 42,
+        "label": "Passo 42",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_42.webp"
+      },
+      {
+        "slideNumber": 43,
+        "label": "Passo 43",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_43.webp"
+      },
+      {
+        "slideNumber": 44,
+        "label": "Passo 44",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_44.webp"
+      },
+      {
+        "slideNumber": 45,
+        "label": "Passo 45",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_45.webp"
+      },
+      {
+        "slideNumber": 46,
+        "label": "Passo 46",
+        "type": "step",
+        "src": "assets/slides/mr-fb-11/slide_46.webp"
+      },
+      {
+        "slideNumber": 47,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-11/slide_47.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-12",
+    "title": "Montagem do Origami",
+    "originalTitle": "Slide 82 (tutorial_slide_82)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 10)",
+    "steps": 35,
+    "slideCount": 35,
+    "thumb": "assets/thumbs/mr-fb-12.webp",
+    "pdf": "tutoriais/First/tutorial_slide_82",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-12/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-fb-12/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-12/slide_35.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-13",
+    "title": "Montagem do Cinema",
+    "originalTitle": "Slide 83 (tutorial_slide_83)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 11)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-fb-13.webp",
+    "pdf": "tutoriais/First/tutorial_slide_83",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-13/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-13/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-13/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-14",
+    "title": "Montagem do Helicóptero",
+    "originalTitle": "Slide 84 (tutorial_slide_84)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 12)",
+    "steps": 24,
+    "slideCount": 24,
+    "thumb": "assets/thumbs/mr-fb-14.webp",
+    "pdf": "tutoriais/First/tutorial_slide_84",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-14/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-14/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-14/slide_24.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-15",
+    "title": "Montagem do Basquete",
+    "originalTitle": "Slide 87 (tutorial_slide_87)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 13)",
+    "steps": 23,
+    "slideCount": 23,
+    "thumb": "assets/thumbs/mr-fb-15.webp",
+    "pdf": "tutoriais/First/tutorial_slide_87",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-15/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-15/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-15/slide_23.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-16",
+    "title": "Montagem do Desafio",
+    "originalTitle": "Slide 89 (tutorial_slide_89)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (My Robot First - Avaliação 1)",
+    "steps": 3,
+    "slideCount": 3,
+    "thumb": "assets/thumbs/mr-fb-16.webp",
+    "pdf": "tutoriais/First/tutorial_slide_89",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-16/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-16/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-16/slide_03.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-17",
+    "title": "Montagem do Macaco",
+    "originalTitle": "Slide 90 (tutorial_slide_90)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 14)",
+    "steps": 34,
+    "slideCount": 34,
+    "thumb": "assets/thumbs/mr-fb-17.webp",
+    "pdf": "tutoriais/First/tutorial_slide_90",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-17/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-fb-17/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-17/slide_34.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-18",
+    "title": "Programação!",
+    "originalTitle": "Slide 93 (tutorial_slide_93)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (My Robot First - Avaliação 1)",
+    "steps": 1,
+    "slideCount": 1,
+    "thumb": "assets/thumbs/mr-fb-18.webp",
+    "pdf": "tutoriais/First/tutorial_slide_93",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/mr-fb-18/slide_01.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-19",
+    "title": "Montagem da Libélula",
+    "originalTitle": "Slide 94 (tutorial_slide_94)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (First - Aula 15)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-fb-19.webp",
+    "pdf": "tutoriais/First/tutorial_slide_94",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-19/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-19/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-19/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-20",
+    "title": "Montagem do barquinho",
+    "originalTitle": "Slide 99 (tutorial_slide_99)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 16)",
+    "steps": 17,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/mr-fb-20.webp",
+    "pdf": "tutoriais/First/tutorial_slide_99",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-20/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-20/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-20/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-21",
+    "title": "Montagem do pembolim",
+    "originalTitle": "Slide 104 (tutorial_slide_104)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 17)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-fb-21.webp",
+    "pdf": "tutoriais/First/tutorial_slide_104",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-21/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-21/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-21/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-22",
+    "title": "Montagem do Cofre",
+    "originalTitle": "Slide 110 (tutorial_slide_110)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 18)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-fb-22.webp",
+    "pdf": "tutoriais/First/tutorial_slide_110",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-22/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-22/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-22/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-23",
+    "title": "Montagem do Arco e Flecha",
+    "originalTitle": "Slide 117 (tutorial_slide_117)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 19)",
+    "steps": 18,
+    "slideCount": 18,
+    "thumb": "assets/thumbs/mr-fb-23.webp",
+    "pdf": "tutoriais/First/tutorial_slide_117",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-23/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-23/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-23/slide_18.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-24",
+    "title": "Montagem do humanoide",
+    "originalTitle": "Slide 118 (tutorial_slide_118)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 20)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-fb-24.webp",
+    "pdf": "tutoriais/First/tutorial_slide_118",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-24/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-24/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-24/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-25",
+    "title": "Montagem do Boitatá",
+    "originalTitle": "Slide 119 (tutorial_slide_119)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 21)",
+    "steps": 27,
+    "slideCount": 27,
+    "thumb": "assets/thumbs/mr-fb-25.webp",
+    "pdf": "tutoriais/First/tutorial_slide_119",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-25/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-25/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-25/slide_27.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-26",
+    "title": "Montagem do Microondas",
+    "originalTitle": "Slide 121 (tutorial_slide_121)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 22)",
+    "steps": 15,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/mr-fb-26.webp",
+    "pdf": "tutoriais/First/tutorial_slide_121",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-26/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-26/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-26/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-27",
+    "title": "Montagem do Aspirador de pó",
+    "originalTitle": "Slide 126 (tutorial_slide_126)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 23)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-fb-27.webp",
+    "pdf": "tutoriais/First/tutorial_slide_126",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-27/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-27/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-27/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-28",
+    "title": "Montagem do Pinguim",
+    "originalTitle": "Slide 129 (tutorial_slide_129)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 24)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-fb-28.webp",
+    "pdf": "tutoriais/First/tutorial_slide_129",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-28/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-28/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-28/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-29",
+    "title": "Montagem do Ventilador",
+    "originalTitle": "Slide 132 (tutorial_slide_132)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 25)",
+    "steps": 33,
+    "slideCount": 33,
+    "thumb": "assets/thumbs/mr-fb-29.webp",
+    "pdf": "tutoriais/First/tutorial_slide_132",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-29/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-fb-29/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-29/slide_33.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-30",
+    "title": "Montagem do Curling",
+    "originalTitle": "Slide 140 (tutorial_slide_140)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 27)",
+    "steps": 24,
+    "slideCount": 24,
+    "thumb": "assets/thumbs/mr-fb-30.webp",
+    "pdf": "tutoriais/First/tutorial_slide_140",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-30/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-30/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-30/slide_24.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-31",
+    "title": "Montagem da Corrida das Cores",
+    "originalTitle": "Slide 142 (tutorial_slide_142)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 28)",
+    "steps": 31,
+    "slideCount": 31,
+    "thumb": "assets/thumbs/mr-fb-31.webp",
+    "pdf": "tutoriais/First/tutorial_slide_142",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-31/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-31/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-31/slide_31.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-32",
+    "title": "FirstBot Aula 32",
+    "originalTitle": "Slide 146 (tutorial_slide_146)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 5,
+    "slideCount": 5,
+    "thumb": "assets/thumbs/mr-fb-32.webp",
+    "pdf": "tutoriais/First/tutorial_slide_146",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-32/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-32/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-32/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-32/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-32/slide_05.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-33",
+    "title": "Montagem da Praça Com Iluminação",
+    "originalTitle": "Slide 147 (tutorial_slide_147)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 26)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-fb-33.webp",
+    "pdf": "tutoriais/First/tutorial_slide_147",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-33/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-fb-33/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-33/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-34",
+    "title": "Montagem do Parquinho Publico",
+    "originalTitle": "Slide 150 (tutorial_slide_150)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 30)",
+    "steps": 18,
+    "slideCount": 18,
+    "thumb": "assets/thumbs/mr-fb-34.webp",
+    "pdf": "tutoriais/First/tutorial_slide_150",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-34/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-34/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-34/slide_18.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-35",
+    "title": "Automóvel",
+    "originalTitle": "Slide 154 (tutorial_slide_154)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (First - Aula 29)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-fb-35.webp",
+    "pdf": "tutoriais/First/tutorial_slide_154",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-35/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-35/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-35/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-36",
+    "title": "Programação",
+    "originalTitle": "Slide 159 (tutorial_slide_159)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (My Robot First - Avaliação 2)",
+    "steps": 1,
+    "slideCount": 1,
+    "thumb": "assets/thumbs/mr-fb-36.webp",
+    "pdf": "tutoriais/First/tutorial_slide_159",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/mr-fb-36/slide_01.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-37",
+    "title": "Controle de Qualidade",
+    "originalTitle": "Slide 160 (tutorial_slide_160)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 17,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/mr-fb-37.webp",
+    "pdf": "tutoriais/First/tutorial_slide_160",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-37/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-37/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-37/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-38",
+    "title": "Drone",
+    "originalTitle": "Slide 163 (tutorial_slide_163)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 32)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-fb-38.webp",
+    "pdf": "tutoriais/First/tutorial_slide_163",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-38/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-38/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-38/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-39",
+    "title": "Farol da Barra",
+    "originalTitle": "Slide 166 (tutorial_slide_166)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 33)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-fb-39.webp",
+    "pdf": "tutoriais/First/tutorial_slide_166",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-39/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-39/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-39/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-40",
+    "title": "Geladeira",
+    "originalTitle": "Slide 171 (tutorial_slide_171)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 34)",
+    "steps": 9,
+    "slideCount": 9,
+    "thumb": "assets/thumbs/mr-fb-40.webp",
+    "pdf": "tutoriais/First/tutorial_slide_171",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-40/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-40/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-40/slide_09.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-41",
+    "title": "Guindaste",
+    "originalTitle": "Slide 172 (tutorial_slide_172)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 35)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-fb-41.webp",
+    "pdf": "tutoriais/First/tutorial_slide_172",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-41/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-41/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-41/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-42",
+    "title": "Turbinas Hidroelétricas",
+    "originalTitle": "Slide 175 (tutorial_slide_175)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 36)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-fb-42.webp",
+    "pdf": "tutoriais/First/tutorial_slide_175",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-42/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-42/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-42/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-43",
+    "title": "Chute ao Gol (Futebol)",
+    "originalTitle": "Slide 178 (tutorial_slide_178)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 37)",
+    "steps": 22,
+    "slideCount": 22,
+    "thumb": "assets/thumbs/mr-fb-43.webp",
+    "pdf": "tutoriais/First/tutorial_slide_178",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-43/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-43/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-43/slide_22.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-44",
+    "title": "Controle de Qualidade",
+    "originalTitle": "Slide 181 (tutorial_slide_181)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 31)",
+    "steps": 17,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/mr-fb-44.webp",
+    "pdf": "tutoriais/First/tutorial_slide_181",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-44/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-44/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-44/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-45",
+    "title": "Mixer",
+    "originalTitle": "Slide 182 (tutorial_slide_182)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First  - Aula 38)",
+    "steps": 14,
+    "slideCount": 14,
+    "thumb": "assets/thumbs/mr-fb-45.webp",
+    "pdf": "tutoriais/First/tutorial_slide_182",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-45/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-45/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-45/slide_14.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-46",
+    "title": "Ônibus",
+    "originalTitle": "Slide 185 (tutorial_slide_185)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 39)",
+    "steps": 17,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/mr-fb-46.webp",
+    "pdf": "tutoriais/First/tutorial_slide_185",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-46/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-46/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-46/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-47",
+    "title": "Praia e Litoral",
+    "originalTitle": "Slide 195 (tutorial_slide_195)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 40)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-fb-47.webp",
+    "pdf": "tutoriais/First/tutorial_slide_195",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-47/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-47/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-47/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-48",
+    "title": "O ciclo da água",
+    "originalTitle": "Slide 196 (tutorial_slide_196)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 41)",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-fb-48.webp",
+    "pdf": "tutoriais/First/tutorial_slide_196",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-48/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-48/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-48/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-49",
+    "title": "O Céu",
+    "originalTitle": "Slide 197 (tutorial_slide_197)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 42)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-fb-49.webp",
+    "pdf": "tutoriais/First/tutorial_slide_197",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-49/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-49/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-49/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-50",
+    "title": "Trator",
+    "originalTitle": "Slide 198 (tutorial_slide_198)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 43)",
+    "steps": 30,
+    "slideCount": 30,
+    "thumb": "assets/thumbs/mr-fb-50.webp",
+    "pdf": "tutoriais/First/tutorial_slide_198",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-50/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-fb-50/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-50/slide_30.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-51",
+    "title": "Submarino",
+    "originalTitle": "Slide 199 (tutorial_slide_199)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 44)",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-fb-51.webp",
+    "pdf": "tutoriais/First/tutorial_slide_199",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-51/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-51/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-51/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-52",
+    "title": "Ruas e Avenidas",
+    "originalTitle": "Slide 200 (tutorial_slide_200)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (First - Aula 45)",
+    "steps": 18,
+    "slideCount": 18,
+    "thumb": "assets/thumbs/mr-fb-52.webp",
+    "pdf": "tutoriais/First/tutorial_slide_200",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-52/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-52/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-52/slide_18.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-53",
+    "title": "Passo a passo",
+    "originalTitle": "Slide 215 (tutorial_slide_215)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (My Robot First - Avaliação 3)",
+    "steps": 7,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/mr-fb-53.webp",
+    "pdf": "tutoriais/First/tutorial_slide_215",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-53/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-53/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-53/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-53/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-53/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-53/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-53/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-54",
+    "title": "My Robot Experience - First",
+    "originalTitle": "Slide 230 (tutorial_slide_230)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-fb-54.webp",
+    "pdf": "tutoriais/First/tutorial_slide_230",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-54/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-54/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-54/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-55",
+    "title": "Avaliação Módulo II",
+    "originalTitle": "Slide 255 (tutorial_slide_255)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (My Robot First - Avaliação 2)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-fb-55.webp",
+    "pdf": "tutoriais/First/tutorial_slide_255",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-55/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-55/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-55/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-56",
+    "title": "Montaje del Proyecto",
+    "originalTitle": "Slide 267 (tutorial_slide_267)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "My Robot First ESP (CLASE 01 - FIRSTBOT)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-fb-56.webp",
+    "pdf": "tutoriais/First/tutorial_slide_267",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-56/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-56/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-56/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-57",
+    "title": "MONTAJE PASO A PASO MINERO",
+    "originalTitle": "Slide 288 (tutorial_slide_288)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "My Robot First ESP (CLASE 03 - FIRSTBOT)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-fb-57.webp",
+    "pdf": "tutoriais/First/tutorial_slide_288",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-57/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-57/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-57/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-fb-58",
+    "title": "PASO A PASO PERRITO",
+    "originalTitle": "Slide 295 (tutorial_slide_295)",
+    "course": "firstbot",
+    "courseName": "FirstBot",
+    "sourceType": "mr",
+    "level": "My Robot First ESP (CLASE 04 - FIRSTBOT)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-fb-58.webp",
+    "pdf": "tutoriais/First/tutorial_slide_295",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-fb-58/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-fb-58/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-fb-58/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-01",
+    "title": "Montagem do cérebro",
+    "originalTitle": "Slide 36 (tutorial_slide_36)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 4)",
+    "steps": 39,
+    "slideCount": 39,
+    "thumb": "assets/thumbs/mr-ob-01.webp",
+    "pdf": "tutoriais/One/tutorial_slide_36",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-01/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-01/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-01/slide_39.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-02",
+    "title": "Montagem do patinho",
+    "originalTitle": "Slide 38 (tutorial_slide_38)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (One - Aula 5)",
+    "steps": 34,
+    "slideCount": 34,
+    "thumb": "assets/thumbs/mr-ob-02.webp",
+    "pdf": "tutoriais/One/tutorial_slide_38",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-02/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-02/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-02/slide_34.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-03",
+    "title": "Montagem da Escavadeira",
+    "originalTitle": "Slide 40 (tutorial_slide_40)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 6)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-ob-03.webp",
+    "pdf": "tutoriais/One/tutorial_slide_40",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-03/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-03/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-03/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-04",
+    "title": "Montagem da Hidrelétrica",
+    "originalTitle": "Slide 43 (tutorial_slide_43)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 7)",
+    "steps": 39,
+    "slideCount": 39,
+    "thumb": "assets/thumbs/mr-ob-04.webp",
+    "pdf": "tutoriais/One/tutorial_slide_43",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-04/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-04/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-04/slide_39.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-05",
+    "title": "Montagem do dinossauro",
+    "originalTitle": "Slide 46 (tutorial_slide_46)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 1)",
+    "steps": 42,
+    "slideCount": 42,
+    "thumb": "assets/thumbs/mr-ob-05.webp",
+    "pdf": "tutoriais/One/tutorial_slide_46",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-05/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Passo 39",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_39.webp"
+      },
+      {
+        "slideNumber": 40,
+        "label": "Passo 40",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_40.webp"
+      },
+      {
+        "slideNumber": 41,
+        "label": "Passo 41",
+        "type": "step",
+        "src": "assets/slides/mr-ob-05/slide_41.webp"
+      },
+      {
+        "slideNumber": 42,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-05/slide_42.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-06",
+    "title": "Montagem do submarino",
+    "originalTitle": "Slide 49 (tutorial_slide_49)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 2)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-ob-06.webp",
+    "pdf": "tutoriais/One/tutorial_slide_49",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-06/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-06/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-06/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-07",
+    "title": "Montagem do foguete",
+    "originalTitle": "Slide 52 (tutorial_slide_52)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 3)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-ob-07.webp",
+    "pdf": "tutoriais/One/tutorial_slide_52",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-07/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-07/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-07/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-08",
+    "title": "Montagem do Astrolábio",
+    "originalTitle": "Slide 53 (tutorial_slide_53)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 8 )",
+    "steps": 27,
+    "slideCount": 27,
+    "thumb": "assets/thumbs/mr-ob-08.webp",
+    "pdf": "tutoriais/One/tutorial_slide_53",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-08/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-08/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-08/slide_27.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-09",
+    "title": "Montagem do Lagarto",
+    "originalTitle": "Slide 57 (tutorial_slide_57)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 9)",
+    "steps": 27,
+    "slideCount": 27,
+    "thumb": "assets/thumbs/mr-ob-09.webp",
+    "pdf": "tutoriais/One/tutorial_slide_57",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-09/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-09/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-09/slide_27.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-10",
+    "title": "Montagem do automóvel",
+    "originalTitle": "Slide 60 (tutorial_slide_60)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 10)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-10.webp",
+    "pdf": "tutoriais/One/tutorial_slide_60",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-10/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-10/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-10/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-11",
+    "title": "Programação",
+    "originalTitle": "Slide 62 (tutorial_slide_62)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 3)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-ob-11.webp",
+    "pdf": "tutoriais/One/tutorial_slide_62",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-11/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-11/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-11/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-12",
+    "title": "Montagem do castor",
+    "originalTitle": "Slide 65 (tutorial_slide_65)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 11)",
+    "steps": 27,
+    "slideCount": 27,
+    "thumb": "assets/thumbs/mr-ob-12.webp",
+    "pdf": "tutoriais/One/tutorial_slide_65",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-12/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-12/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-12/slide_27.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-13",
+    "title": "Montagem do Pedágio",
+    "originalTitle": "Slide 74 (tutorial_slide_74)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 12)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-13.webp",
+    "pdf": "tutoriais/One/tutorial_slide_74",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-13/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-13/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-13/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-14",
+    "title": "Montagem do Teleférico",
+    "originalTitle": "Slide 79 (tutorial_slide_79)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 38,
+    "slideCount": 38,
+    "thumb": "assets/thumbs/mr-ob-14.webp",
+    "pdf": "tutoriais/One/tutorial_slide_79",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-14/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-14/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-14/slide_38.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-15",
+    "title": "Montagem do Wall-E",
+    "originalTitle": "Slide 85 (tutorial_slide_85)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 15)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-ob-15.webp",
+    "pdf": "tutoriais/One/tutorial_slide_85",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-15/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-15/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-15/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-16",
+    "title": "Programação!",
+    "originalTitle": "Slide 91 (tutorial_slide_91)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (My Robot One - Avaliação 1)",
+    "steps": 1,
+    "slideCount": 1,
+    "thumb": "assets/thumbs/mr-ob-16.webp",
+    "pdf": "tutoriais/One/tutorial_slide_91",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/mr-ob-16/slide_01.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-17",
+    "title": "Montagem da Robo Ginasta",
+    "originalTitle": "Slide 95 (tutorial_slide_95)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 16)",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-ob-17.webp",
+    "pdf": "tutoriais/One/tutorial_slide_95",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-17/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-17/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-17/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-18",
+    "title": "Montagem da vara de pescar",
+    "originalTitle": "Slide 98 (tutorial_slide_98)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 34,
+    "slideCount": 34,
+    "thumb": "assets/thumbs/mr-ob-18.webp",
+    "pdf": "tutoriais/One/tutorial_slide_98",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-18/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-18/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-18/slide_34.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-19",
+    "title": "Montagem da casa assombrada",
+    "originalTitle": "Slide 100 (tutorial_slide_100)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 18)",
+    "steps": 35,
+    "slideCount": 35,
+    "thumb": "assets/thumbs/mr-ob-19.webp",
+    "pdf": "tutoriais/One/tutorial_slide_100",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-19/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-19/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-19/slide_35.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-20",
+    "title": "Montagem do chapéu mexicano",
+    "originalTitle": "Slide 102 (tutorial_slide_102)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 19)",
+    "steps": 36,
+    "slideCount": 36,
+    "thumb": "assets/thumbs/mr-ob-20.webp",
+    "pdf": "tutoriais/One/tutorial_slide_102",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-20/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-20/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-20/slide_36.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-21",
+    "title": "Montagem da maquina de Flores",
+    "originalTitle": "Slide 116 (tutorial_slide_116)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 20)",
+    "steps": 22,
+    "slideCount": 22,
+    "thumb": "assets/thumbs/mr-ob-21.webp",
+    "pdf": "tutoriais/One/tutorial_slide_116",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-21/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-21/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-21/slide_22.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-22",
+    "title": "Montagem do Helicóptero",
+    "originalTitle": "Slide 123 (tutorial_slide_123)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 21)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-ob-22.webp",
+    "pdf": "tutoriais/One/tutorial_slide_123",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-22/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-22/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-22/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-23",
+    "title": "Montagem do Robô Golfista",
+    "originalTitle": "Slide 124 (tutorial_slide_124)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 22)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-23.webp",
+    "pdf": "tutoriais/One/tutorial_slide_124",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-23/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-23/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-23/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-24",
+    "title": "Montagem do Caminhão de Bombeiro",
+    "originalTitle": "Slide 127 (tutorial_slide_127)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 23)",
+    "steps": 35,
+    "slideCount": 35,
+    "thumb": "assets/thumbs/mr-ob-24.webp",
+    "pdf": "tutoriais/One/tutorial_slide_127",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-24/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-24/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-24/slide_35.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-25",
+    "title": "Montagem do Gran Pix Atari 2600",
+    "originalTitle": "Slide 130 (tutorial_slide_130)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 24)",
+    "steps": 33,
+    "slideCount": 33,
+    "thumb": "assets/thumbs/mr-ob-25.webp",
+    "pdf": "tutoriais/One/tutorial_slide_130",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-25/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-25/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-25/slide_33.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-26",
+    "title": "Montagem do Trator",
+    "originalTitle": "Slide 134 (tutorial_slide_134)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 25)",
+    "steps": 31,
+    "slideCount": 31,
+    "thumb": "assets/thumbs/mr-ob-26.webp",
+    "pdf": "tutoriais/One/tutorial_slide_134",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-26/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-26/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-26/slide_31.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-27",
+    "title": "OneBot Aula 27",
+    "originalTitle": "Slide 138 (tutorial_slide_138)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-ob-27.webp",
+    "pdf": "tutoriais/One/tutorial_slide_138",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-27/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-27/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-27/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-28",
+    "title": "Montagem do Caminhão de Lixo",
+    "originalTitle": "Slide 143 (tutorial_slide_143)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 28)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-ob-28.webp",
+    "pdf": "tutoriais/One/tutorial_slide_143",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-28/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-28/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-28/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-29",
+    "title": "Montagem do Drawing Bot",
+    "originalTitle": "Slide 148 (tutorial_slide_148)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 26)",
+    "steps": 27,
+    "slideCount": 27,
+    "thumb": "assets/thumbs/mr-ob-29.webp",
+    "pdf": "tutoriais/One/tutorial_slide_148",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-29/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-29/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-29/slide_27.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-30",
+    "title": "Trem Seguidor de Linha",
+    "originalTitle": "Slide 152 (tutorial_slide_152)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 27)",
+    "steps": 47,
+    "slideCount": 47,
+    "thumb": "assets/thumbs/mr-ob-30.webp",
+    "pdf": "tutoriais/One/tutorial_slide_152",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-30/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Passo 39",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_39.webp"
+      },
+      {
+        "slideNumber": 40,
+        "label": "Passo 40",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_40.webp"
+      },
+      {
+        "slideNumber": 41,
+        "label": "Passo 41",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_41.webp"
+      },
+      {
+        "slideNumber": 42,
+        "label": "Passo 42",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_42.webp"
+      },
+      {
+        "slideNumber": 43,
+        "label": "Passo 43",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_43.webp"
+      },
+      {
+        "slideNumber": 44,
+        "label": "Passo 44",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_44.webp"
+      },
+      {
+        "slideNumber": 45,
+        "label": "Passo 45",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_45.webp"
+      },
+      {
+        "slideNumber": 46,
+        "label": "Passo 46",
+        "type": "step",
+        "src": "assets/slides/mr-ob-30/slide_46.webp"
+      },
+      {
+        "slideNumber": 47,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-30/slide_47.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-31",
+    "title": "Casa Automática",
+    "originalTitle": "Slide 153 (tutorial_slide_153)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 29)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-ob-31.webp",
+    "pdf": "tutoriais/One/tutorial_slide_153",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-31/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-31/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-31/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-32",
+    "title": "Desvendador de Labirinto",
+    "originalTitle": "Slide 156 (tutorial_slide_156)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 30)",
+    "steps": 30,
+    "slideCount": 30,
+    "thumb": "assets/thumbs/mr-ob-32.webp",
+    "pdf": "tutoriais/One/tutorial_slide_156",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-32/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-32/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-32/slide_30.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-33",
+    "title": "Programação",
+    "originalTitle": "Slide 157 (tutorial_slide_157)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (My Robot One - Avaliação 2)",
+    "steps": 1,
+    "slideCount": 1,
+    "thumb": "assets/thumbs/mr-ob-33.webp",
+    "pdf": "tutoriais/One/tutorial_slide_157",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/mr-ob-33/slide_01.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-34",
+    "title": "Cleanbot",
+    "originalTitle": "Slide 161 (tutorial_slide_161)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 31)",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-ob-34.webp",
+    "pdf": "tutoriais/One/tutorial_slide_161",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-34/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-34/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-34/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-35",
+    "title": "Caixa Com Senha",
+    "originalTitle": "Slide 164 (tutorial_slide_164)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 32)",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-ob-35.webp",
+    "pdf": "tutoriais/One/tutorial_slide_164",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-35/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-35/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-35/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-36",
+    "title": "Jukebox",
+    "originalTitle": "Slide 167 (tutorial_slide_167)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 33)",
+    "steps": 7,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/mr-ob-36.webp",
+    "pdf": "tutoriais/One/tutorial_slide_167",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-36/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-36/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-36/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-36/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-36/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-36/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-36/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-37",
+    "title": "Tirolesa",
+    "originalTitle": "Slide 169 (tutorial_slide_169)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 34)",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-ob-37.webp",
+    "pdf": "tutoriais/One/tutorial_slide_169",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-37/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-37/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-37/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-38",
+    "title": "Casa Fotovoltáica",
+    "originalTitle": "Slide 173 (tutorial_slide_173)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 35)",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-ob-38.webp",
+    "pdf": "tutoriais/One/tutorial_slide_173",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-38/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-38/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-38/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-39",
+    "title": "Elevador",
+    "originalTitle": "Slide 176 (tutorial_slide_176)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 36)",
+    "steps": 13,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/mr-ob-39.webp",
+    "pdf": "tutoriais/One/tutorial_slide_176",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-39/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-39/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-39/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-40",
+    "title": "Energia Eólica",
+    "originalTitle": "Slide 179 (tutorial_slide_179)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 37)",
+    "steps": 7,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/mr-ob-40.webp",
+    "pdf": "tutoriais/One/tutorial_slide_179",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-40/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-40/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-40/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-40/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-40/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-40/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-40/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-41",
+    "title": "Catapulta",
+    "originalTitle": "Slide 183 (tutorial_slide_183)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One  - Aula 38)",
+    "steps": 8,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/mr-ob-41.webp",
+    "pdf": "tutoriais/One/tutorial_slide_183",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-41/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-41/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-41/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-41/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-41/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-41/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-41/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-41/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-42",
+    "title": "Carro com Chave",
+    "originalTitle": "Slide 186 (tutorial_slide_186)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 39)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-ob-42.webp",
+    "pdf": "tutoriais/One/tutorial_slide_186",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-42/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-42/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-42/slide_20.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-43",
+    "title": "Linha de Produção",
+    "originalTitle": "Slide 188 (tutorial_slide_188)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 22,
+    "slideCount": 22,
+    "thumb": "assets/thumbs/mr-ob-43.webp",
+    "pdf": "tutoriais/One/tutorial_slide_188",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-43/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-43/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-43/slide_22.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-44",
+    "title": "Linha de Produção",
+    "originalTitle": "Slide 189 (tutorial_slide_189)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 40)",
+    "steps": 22,
+    "slideCount": 22,
+    "thumb": "assets/thumbs/mr-ob-44.webp",
+    "pdf": "tutoriais/One/tutorial_slide_189",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-44/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-44/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-44/slide_22.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-45",
+    "title": "Pré-História",
+    "originalTitle": "Slide 190 (tutorial_slide_190)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 41)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-ob-45.webp",
+    "pdf": "tutoriais/One/tutorial_slide_190",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-45/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-45/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-45/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-46",
+    "title": "Carros Futuristas",
+    "originalTitle": "Slide 191 (tutorial_slide_191)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 42)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-ob-46.webp",
+    "pdf": "tutoriais/One/tutorial_slide_191",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-46/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-46/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-46/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-47",
+    "title": "Construções Civis",
+    "originalTitle": "Slide 192 (tutorial_slide_192)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 43)",
+    "steps": 18,
+    "slideCount": 18,
+    "thumb": "assets/thumbs/mr-ob-47.webp",
+    "pdf": "tutoriais/One/tutorial_slide_192",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-47/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-47/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-47/slide_18.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-48",
+    "title": "O mundo sobre duas rodas",
+    "originalTitle": "Slide 193 (tutorial_slide_193)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 44)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-ob-48.webp",
+    "pdf": "tutoriais/One/tutorial_slide_193",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-48/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-48/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-48/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-49",
+    "title": "Serviços Público",
+    "originalTitle": "Slide 194 (tutorial_slide_194)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 3 (One - Aula 45)",
+    "steps": 15,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/mr-ob-49.webp",
+    "pdf": "tutoriais/One/tutorial_slide_194",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-49/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-49/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-49/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-50",
+    "title": "Teleférico",
+    "originalTitle": "Slide 208 (tutorial_slide_208)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 14)",
+    "steps": 44,
+    "slideCount": 44,
+    "thumb": "assets/thumbs/mr-ob-50.webp",
+    "pdf": "tutoriais/One/tutorial_slide_208",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-50/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Passo 39",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_39.webp"
+      },
+      {
+        "slideNumber": 40,
+        "label": "Passo 40",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_40.webp"
+      },
+      {
+        "slideNumber": 41,
+        "label": "Passo 41",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_41.webp"
+      },
+      {
+        "slideNumber": 42,
+        "label": "Passo 42",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_42.webp"
+      },
+      {
+        "slideNumber": 43,
+        "label": "Passo 43",
+        "type": "step",
+        "src": "assets/slides/mr-ob-50/slide_43.webp"
+      },
+      {
+        "slideNumber": 44,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-50/slide_44.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-51",
+    "title": "Passo a passo",
+    "originalTitle": "Slide 211 (tutorial_slide_211)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 15,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/mr-ob-51.webp",
+    "pdf": "tutoriais/One/tutorial_slide_211",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-51/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-51/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-51/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-52",
+    "title": "Passo a passo",
+    "originalTitle": "Slide 224 (tutorial_slide_224)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-ob-52.webp",
+    "pdf": "tutoriais/One/tutorial_slide_224",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-52/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-52/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-52/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-53",
+    "title": "Passo a passo",
+    "originalTitle": "Slide 225 (tutorial_slide_225)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 39,
+    "slideCount": 39,
+    "thumb": "assets/thumbs/mr-ob-53.webp",
+    "pdf": "tutoriais/One/tutorial_slide_225",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-53/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-53/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-53/slide_39.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-54",
+    "title": "Passo a passo",
+    "originalTitle": "Slide 226 (tutorial_slide_226)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-ob-54.webp",
+    "pdf": "tutoriais/One/tutorial_slide_226",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-54/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-54/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-54/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-55",
+    "title": "Passo a passo",
+    "originalTitle": "Slide 228 (tutorial_slide_228)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 1 (One - Aula 13)",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-ob-55.webp",
+    "pdf": "tutoriais/One/tutorial_slide_228",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-55/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-55/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-55/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-56",
+    "title": "My Robot Experience - One",
+    "originalTitle": "Slide 232 (tutorial_slide_232)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 24,
+    "slideCount": 24,
+    "thumb": "assets/thumbs/mr-ob-56.webp",
+    "pdf": "tutoriais/One/tutorial_slide_232",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-56/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-56/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-56/slide_24.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-57",
+    "title": "MONTAGEM",
+    "originalTitle": "Slide 241 (tutorial_slide_241)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 38,
+    "slideCount": 38,
+    "thumb": "assets/thumbs/mr-ob-57.webp",
+    "pdf": "tutoriais/One/tutorial_slide_241",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-57/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-57/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-57/slide_38.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-58",
+    "title": "Montagem",
+    "originalTitle": "Slide 256 (tutorial_slide_256)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 16,
+    "slideCount": 16,
+    "thumb": "assets/thumbs/mr-ob-58.webp",
+    "pdf": "tutoriais/One/tutorial_slide_256",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-58/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-58/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-58/slide_16.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-59",
+    "title": "Montagem",
+    "originalTitle": "Slide 265 (tutorial_slide_265)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-59.webp",
+    "pdf": "tutoriais/One/tutorial_slide_265",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-59/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-59/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-59/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-60",
+    "title": "Montagem",
+    "originalTitle": "Slide 266 (tutorial_slide_266)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 34,
+    "slideCount": 34,
+    "thumb": "assets/thumbs/mr-ob-60.webp",
+    "pdf": "tutoriais/One/tutorial_slide_266",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-60/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-60/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-60/slide_34.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-61",
+    "title": "Montaje del proyecto",
+    "originalTitle": "Slide 269 (tutorial_slide_269)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 01 - ONEBOT)",
+    "steps": 40,
+    "slideCount": 40,
+    "thumb": "assets/thumbs/mr-ob-61.webp",
+    "pdf": "tutoriais/One/tutorial_slide_269",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-61/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Passo 39",
+        "type": "step",
+        "src": "assets/slides/mr-ob-61/slide_39.webp"
+      },
+      {
+        "slideNumber": 40,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-61/slide_40.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-62",
+    "title": "Montagem da vara de pesca2",
+    "originalTitle": "Slide 280 (tutorial_slide_280)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One - Módulo 2 (One - Aula 17)",
+    "steps": 35,
+    "slideCount": 35,
+    "thumb": "assets/thumbs/mr-ob-62.webp",
+    "pdf": "tutoriais/One/tutorial_slide_280",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-62/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-62/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-62/slide_35.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-63",
+    "title": "MONTAJE SUBMARINO",
+    "originalTitle": "Slide 282 (tutorial_slide_282)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 02 - ONEBOT)",
+    "steps": 24,
+    "slideCount": 24,
+    "thumb": "assets/thumbs/mr-ob-63.webp",
+    "pdf": "tutoriais/One/tutorial_slide_282",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-63/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-63/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-63/slide_24.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-64",
+    "title": "dadasdsada",
+    "originalTitle": "Slide 283 (tutorial_slide_283)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 21,
+    "slideCount": 21,
+    "thumb": "assets/thumbs/mr-ob-64.webp",
+    "pdf": "tutoriais/One/tutorial_slide_283",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-64/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-64/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-64/slide_21.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-65",
+    "title": "MONTAJE NAVE ESPACIAL",
+    "originalTitle": "Slide 284 (tutorial_slide_284)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 03 - ONEBOT)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-ob-65.webp",
+    "pdf": "tutoriais/One/tutorial_slide_284",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-65/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-65/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-65/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-66",
+    "title": "Programación",
+    "originalTitle": "Slide 285 (tutorial_slide_285)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 03 - ONEBOT)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-ob-66.webp",
+    "pdf": "tutoriais/One/tutorial_slide_285",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-66/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-66/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-66/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-67",
+    "title": "MONTAJE CEREBRO",
+    "originalTitle": "Slide 286 (tutorial_slide_286)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 04 - ONEBOT)",
+    "steps": 38,
+    "slideCount": 38,
+    "thumb": "assets/thumbs/mr-ob-67.webp",
+    "pdf": "tutoriais/One/tutorial_slide_286",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-67/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-67/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-67/slide_38.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-68",
+    "title": "Montaje Patito Robot",
+    "originalTitle": "Slide 287 (tutorial_slide_287)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 05 - ONEBOT)",
+    "steps": 33,
+    "slideCount": 33,
+    "thumb": "assets/thumbs/mr-ob-68.webp",
+    "pdf": "tutoriais/One/tutorial_slide_287",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-68/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-68/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-68/slide_33.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-69",
+    "title": "Montaje Máquina Excavadora",
+    "originalTitle": "Slide 293 (tutorial_slide_293)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 06 - ONEBOT)",
+    "steps": 23,
+    "slideCount": 23,
+    "thumb": "assets/thumbs/mr-ob-69.webp",
+    "pdf": "tutoriais/One/tutorial_slide_293",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-69/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-69/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-69/slide_23.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-70",
+    "title": "Montaje Hidroeléctrica",
+    "originalTitle": "Slide 294 (tutorial_slide_294)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 07 - ONEBOT)",
+    "steps": 38,
+    "slideCount": 38,
+    "thumb": "assets/thumbs/mr-ob-70.webp",
+    "pdf": "tutoriais/One/tutorial_slide_294",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-70/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-ob-70/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-70/slide_38.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-71",
+    "title": "Montaje Astrolábio",
+    "originalTitle": "Slide 296 (tutorial_slide_296)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 08 - ONEBOT)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-71.webp",
+    "pdf": "tutoriais/One/tutorial_slide_296",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-71/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-71/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-71/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-72",
+    "title": "Montaje Lagarto",
+    "originalTitle": "Slide 297 (tutorial_slide_297)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 09 - ONEBOT)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-72.webp",
+    "pdf": "tutoriais/One/tutorial_slide_297",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-72/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-72/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-72/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-73",
+    "title": "Montaje Automóvil",
+    "originalTitle": "Slide 298 (tutorial_slide_298)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 10 - ONEBOT)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-ob-73.webp",
+    "pdf": "tutoriais/One/tutorial_slide_298",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-73/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-73/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-73/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-74",
+    "title": "Montaje Castor",
+    "originalTitle": "Slide 299 (tutorial_slide_299)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 11 - ONEBOT)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-ob-74.webp",
+    "pdf": "tutoriais/One/tutorial_slide_299",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-74/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-ob-74/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-74/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-ob-75",
+    "title": "Montaje Peaje",
+    "originalTitle": "Slide 300 (tutorial_slide_300)",
+    "course": "onebot",
+    "courseName": "OneBot",
+    "sourceType": "mr",
+    "level": "My Robot One ESP (CLASE 12 - ONEBOT)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-ob-75.webp",
+    "pdf": "tutoriais/One/tutorial_slide_300",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-ob-75/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-ob-75/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-ob-75/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-01",
+    "title": "Montagem da garra simples",
+    "originalTitle": "Slide 12 (tutorial_slide_12)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 1)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-tb-01.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_12",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-01/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-01/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-01/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-02",
+    "title": "Montagem da alavanca",
+    "originalTitle": "Slide 31 (tutorial_slide_31)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 2)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-tb-02.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_31",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-02/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-02/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-02/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-03",
+    "title": "Montagem da usina hidrelétrica",
+    "originalTitle": "Slide 34 (tutorial_slide_34)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 3)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-tb-03.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_34",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-03/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-tb-03/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-03/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-04",
+    "title": "Montagem do ponto de ônibus",
+    "originalTitle": "Slide 39 (tutorial_slide_39)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 5)",
+    "steps": 21,
+    "slideCount": 21,
+    "thumb": "assets/thumbs/mr-tb-04.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_39",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-04/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-04/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-04/slide_21.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-05",
+    "title": "Montagem do Carro de corrida",
+    "originalTitle": "Slide 41 (tutorial_slide_41)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 6)",
+    "steps": 18,
+    "slideCount": 18,
+    "thumb": "assets/thumbs/mr-tb-05.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_41",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-05/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-05/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-05/slide_18.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-06",
+    "title": "Montagem da máquina de demolição",
+    "originalTitle": "Slide 44 (tutorial_slide_44)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 7)",
+    "steps": 27,
+    "slideCount": 27,
+    "thumb": "assets/thumbs/mr-tb-06.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_44",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-06/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-06/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-06/slide_27.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-07",
+    "title": "Montagem do separador de bolinhas",
+    "originalTitle": "Slide 54 (tutorial_slide_54)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 8)",
+    "steps": 22,
+    "slideCount": 22,
+    "thumb": "assets/thumbs/mr-tb-07.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_54",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-07/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-07/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-07/slide_22.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-08",
+    "title": "Montagem do Aerogerador",
+    "originalTitle": "Slide 58 (tutorial_slide_58)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 9)",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-tb-08.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_58",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-08/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-08/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-08/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-09",
+    "title": "Montagem da catapulta",
+    "originalTitle": "Slide 59 (tutorial_slide_59)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech - Módulo 1 (Tech - Aula 4)",
+    "steps": 39,
+    "slideCount": 39,
+    "thumb": "assets/thumbs/mr-tb-09.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_59",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-09/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-tb-09/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-09/slide_39.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-10",
+    "title": "Montagem do metrônomo",
+    "originalTitle": "Slide 61 (tutorial_slide_61)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (Tech - Aula 10)",
+    "steps": 13,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/mr-tb-10.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_61",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-10/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-10/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-10/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-11",
+    "title": "Montagem do Desvio de obstáculo",
+    "originalTitle": "Slide 66 (tutorial_slide_66)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (Tech - Aula 11)",
+    "steps": 13,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/mr-tb-11.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_66",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-11/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-11/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-11/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-12",
+    "title": "Montagem do Cofre",
+    "originalTitle": "Slide 75 (tutorial_slide_75)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (Tech - Aula 12)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-tb-12.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_75",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-12/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-12/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-12/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-13",
+    "title": "Montagem do Carro de arrancada",
+    "originalTitle": "Slide 77 (tutorial_slide_77)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (Tech - Aula 13)",
+    "steps": 17,
+    "slideCount": 17,
+    "thumb": "assets/thumbs/mr-tb-13.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_77",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-13/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-13/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-13/slide_17.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-14",
+    "title": "Montagem do guindaste",
+    "originalTitle": "Slide 81 (tutorial_slide_81)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (Tech - Aula 14)",
+    "steps": 30,
+    "slideCount": 30,
+    "thumb": "assets/thumbs/mr-tb-14.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_81",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-14/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-14/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-14/slide_30.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-15",
+    "title": "Montagem do Carro Solar",
+    "originalTitle": "Slide 86 (tutorial_slide_86)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (Tech - Aula 15)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-tb-15.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_86",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-15/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-15/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-15/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-16",
+    "title": "Programação!",
+    "originalTitle": "Slide 92 (tutorial_slide_92)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 1 (My Robot Tech - Avaliação 1)",
+    "steps": 1,
+    "slideCount": 1,
+    "thumb": "assets/thumbs/mr-tb-16.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_92",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/mr-tb-16/slide_01.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-17",
+    "title": "Montagem da Carrinho com controle remoto",
+    "originalTitle": "Slide 96 (tutorial_slide_96)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 16)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-tb-17.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_96",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-17/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-17/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-17/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-18",
+    "title": "Montagem da empilhadeira",
+    "originalTitle": "Slide 97 (tutorial_slide_97)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 17 )",
+    "steps": 29,
+    "slideCount": 29,
+    "thumb": "assets/thumbs/mr-tb-18.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_97",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-18/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-18/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-18/slide_29.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-19",
+    "title": "Montagem da balança com indicadores",
+    "originalTitle": "Slide 101 (tutorial_slide_101)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 18)",
+    "steps": 30,
+    "slideCount": 30,
+    "thumb": "assets/thumbs/mr-tb-19.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_101",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-19/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-19/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-19/slide_30.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-20",
+    "title": "Montagem da cancela com cartão",
+    "originalTitle": "Slide 103 (tutorial_slide_103)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 19)",
+    "steps": 29,
+    "slideCount": 29,
+    "thumb": "assets/thumbs/mr-tb-20.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_103",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-20/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-20/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-20/slide_29.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-21",
+    "title": "Montagem do carro de Corrida",
+    "originalTitle": "Slide 115 (tutorial_slide_115)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 20)",
+    "steps": 23,
+    "slideCount": 23,
+    "thumb": "assets/thumbs/mr-tb-21.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_115",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-21/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-21/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-21/slide_23.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-22",
+    "title": "Montagem do Robô Limpador",
+    "originalTitle": "Slide 120 (tutorial_slide_120)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 21)",
+    "steps": 29,
+    "slideCount": 29,
+    "thumb": "assets/thumbs/mr-tb-22.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_120",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-22/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-22/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-22/slide_29.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-23",
+    "title": "Montagem da Ponte Levadiça",
+    "originalTitle": "Slide 125 (tutorial_slide_125)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 22)",
+    "steps": 33,
+    "slideCount": 33,
+    "thumb": "assets/thumbs/mr-tb-23.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_125",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-23/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-tb-23/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-23/slide_33.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-24",
+    "title": "Montagem da Casa Automática",
+    "originalTitle": "Slide 128 (tutorial_slide_128)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 23)",
+    "steps": 26,
+    "slideCount": 26,
+    "thumb": "assets/thumbs/mr-tb-24.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_128",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-24/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-24/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-24/slide_26.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-25",
+    "title": "Montagem do Relógio",
+    "originalTitle": "Slide 131 (tutorial_slide_131)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 24)",
+    "steps": 37,
+    "slideCount": 37,
+    "thumb": "assets/thumbs/mr-tb-25.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_131",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-25/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-tb-25/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-25/slide_37.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-26",
+    "title": "Montagem da Casa Com Alarme",
+    "originalTitle": "Slide 135 (tutorial_slide_135)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 25)",
+    "steps": 28,
+    "slideCount": 28,
+    "thumb": "assets/thumbs/mr-tb-26.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_135",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-26/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-26/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-26/slide_28.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-27",
+    "title": "TechBot Aula 27",
+    "originalTitle": "Slide 136 (tutorial_slide_136)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 6,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/mr-tb-27.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_136",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-27/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-27/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-27/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-27/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-27/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-27/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-28",
+    "title": "Circuitos AND, OR e NOT",
+    "originalTitle": "Slide 139 (tutorial_slide_139)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 26)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-tb-28.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_139",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-28/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-28/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-28/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-29",
+    "title": "Montagem do Teclado",
+    "originalTitle": "Slide 141 (tutorial_slide_141)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 27)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-tb-29.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_141",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-29/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-29/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-29/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-30",
+    "title": "Montagem da Roda Gigante",
+    "originalTitle": "Slide 149 (tutorial_slide_149)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 28)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-tb-30.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_149",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-30/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-30/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-30/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-31",
+    "title": "Montagem do Braço Robótico",
+    "originalTitle": "Slide 151 (tutorial_slide_151)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 30)",
+    "steps": 21,
+    "slideCount": 21,
+    "thumb": "assets/thumbs/mr-tb-31.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_151",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-31/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-31/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-31/slide_21.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-32",
+    "title": "Teremin",
+    "originalTitle": "Slide 155 (tutorial_slide_155)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (Tech - Aula 29)",
+    "steps": 25,
+    "slideCount": 25,
+    "thumb": "assets/thumbs/mr-tb-32.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_155",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-32/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-32/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-32/slide_25.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-33",
+    "title": "Programação",
+    "originalTitle": "Slide 158 (tutorial_slide_158)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 2 (My Robot Tech - Avaliação 2)",
+    "steps": 1,
+    "slideCount": 1,
+    "thumb": "assets/thumbs/mr-tb-33.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_158",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Passo 1",
+        "type": "step",
+        "src": "assets/slides/mr-tb-33/slide_01.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-34",
+    "title": "Carro de Fricção",
+    "originalTitle": "Slide 162 (tutorial_slide_162)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 31)",
+    "steps": 15,
+    "slideCount": 15,
+    "thumb": "assets/thumbs/mr-tb-34.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_162",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-34/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-34/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-34/slide_15.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-35",
+    "title": "Disco de Newton",
+    "originalTitle": "Slide 165 (tutorial_slide_165)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 32)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-tb-35.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_165",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-35/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-35/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-35/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-36",
+    "title": "Robô Stalker",
+    "originalTitle": "Slide 168 (tutorial_slide_168)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 33)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-tb-36.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_168",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-36/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-36/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-36/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-37",
+    "title": "Gerador por Indução",
+    "originalTitle": "Slide 170 (tutorial_slide_170)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 34)",
+    "steps": 9,
+    "slideCount": 9,
+    "thumb": "assets/thumbs/mr-tb-37.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_170",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-37/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-37/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-37/slide_09.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-38",
+    "title": "Calculadora",
+    "originalTitle": "Slide 174 (tutorial_slide_174)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 35)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-tb-38.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_174",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-38/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-38/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-38/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-39",
+    "title": "Seguidor de Linha",
+    "originalTitle": "Slide 177 (tutorial_slide_177)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 36)",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-tb-39.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_177",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-39/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-39/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-39/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-40",
+    "title": "Elevador (Andaime)",
+    "originalTitle": "Slide 180 (tutorial_slide_180)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 37)",
+    "steps": 8,
+    "slideCount": 8,
+    "thumb": "assets/thumbs/mr-tb-40.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_180",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-40/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-40/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-40/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-40/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-40/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-40/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-40/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-40/slide_08.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-41",
+    "title": "Motor Pistão",
+    "originalTitle": "Slide 184 (tutorial_slide_184)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 38)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-tb-41.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_184",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-41/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-41/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-41/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-42",
+    "title": "Gravador de Sequencia",
+    "originalTitle": "Slide 187 (tutorial_slide_187)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 39)",
+    "steps": 6,
+    "slideCount": 6,
+    "thumb": "assets/thumbs/mr-tb-42.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_187",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-42/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-42/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-42/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-42/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-42/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-42/slide_06.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-43",
+    "title": "Engrenagens automotivas",
+    "originalTitle": "Slide 201 (tutorial_slide_201)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 40)",
+    "steps": 13,
+    "slideCount": 13,
+    "thumb": "assets/thumbs/mr-tb-43.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_201",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-43/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-43/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-43/slide_13.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-44",
+    "title": "Ângulos",
+    "originalTitle": "Slide 202 (tutorial_slide_202)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 41)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-tb-44.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_202",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-44/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-44/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-44/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-45",
+    "title": "Transportes e Tração",
+    "originalTitle": "Slide 203 (tutorial_slide_203)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 42)",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-tb-45.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_203",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-45/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-45/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-45/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-46",
+    "title": "Aviação",
+    "originalTitle": "Slide 204 (tutorial_slide_204)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 43)",
+    "steps": 10,
+    "slideCount": 10,
+    "thumb": "assets/thumbs/mr-tb-46.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_204",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-46/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-46/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-46/slide_10.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-47",
+    "title": "Ecolocalização",
+    "originalTitle": "Slide 205 (tutorial_slide_205)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 44)",
+    "steps": 9,
+    "slideCount": 9,
+    "thumb": "assets/thumbs/mr-tb-47.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_205",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-47/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-47/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-47/slide_09.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-48",
+    "title": "Probabilidade",
+    "originalTitle": "Slide 206 (tutorial_slide_206)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "Módulo 3 (Tech - Aula 45)",
+    "steps": 7,
+    "slideCount": 7,
+    "thumb": "assets/thumbs/mr-tb-48.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_206",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-48/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-48/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-48/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-48/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-48/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-48/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-48/slide_07.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-49",
+    "title": "My Robot Experience - Tech",
+    "originalTitle": "Slide 233 (tutorial_slide_233)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 12,
+    "slideCount": 12,
+    "thumb": "assets/thumbs/mr-tb-49.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_233",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-49/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-49/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-49/slide_12.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-50",
+    "title": "MONTAGEM",
+    "originalTitle": "Slide 245 (tutorial_slide_245)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "MR Aula",
+    "steps": 11,
+    "slideCount": 11,
+    "thumb": "assets/thumbs/mr-tb-50.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_245",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-50/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-50/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-50/slide_11.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-51",
+    "title": "Montaje del proyecto",
+    "originalTitle": "Slide 268 (tutorial_slide_268)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech ESP (CLASE 01 - TECHBOT)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-tb-51.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_268",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-51/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-51/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-51/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-52",
+    "title": "Montaje - Efectos de la palanca",
+    "originalTitle": "Slide 289 (tutorial_slide_289)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech ESP (CLASE 02 - TECHBOT\t)",
+    "steps": 19,
+    "slideCount": 19,
+    "thumb": "assets/thumbs/mr-tb-52.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_289",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-52/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-52/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-52/slide_19.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-53",
+    "title": "Montaje - Energía potencial gravitacional",
+    "originalTitle": "Slide 290 (tutorial_slide_290)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech ESP (CLASE 03 - TECHBOT\t)",
+    "steps": 32,
+    "slideCount": 32,
+    "thumb": "assets/thumbs/mr-tb-53.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_290",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-53/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-tb-53/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-53/slide_32.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-54",
+    "title": "Montaje - Física del lanzamiento oblicuo",
+    "originalTitle": "Slide 291 (tutorial_slide_291)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech ESP (CLASE 04 - TECHBOT\t)",
+    "steps": 39,
+    "slideCount": 39,
+    "thumb": "assets/thumbs/mr-tb-54.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_291",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-54/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Passo 20",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_20.webp"
+      },
+      {
+        "slideNumber": 21,
+        "label": "Passo 21",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_21.webp"
+      },
+      {
+        "slideNumber": 22,
+        "label": "Passo 22",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_22.webp"
+      },
+      {
+        "slideNumber": 23,
+        "label": "Passo 23",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_23.webp"
+      },
+      {
+        "slideNumber": 24,
+        "label": "Passo 24",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_24.webp"
+      },
+      {
+        "slideNumber": 25,
+        "label": "Passo 25",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_25.webp"
+      },
+      {
+        "slideNumber": 26,
+        "label": "Passo 26",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_26.webp"
+      },
+      {
+        "slideNumber": 27,
+        "label": "Passo 27",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_27.webp"
+      },
+      {
+        "slideNumber": 28,
+        "label": "Passo 28",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_28.webp"
+      },
+      {
+        "slideNumber": 29,
+        "label": "Passo 29",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_29.webp"
+      },
+      {
+        "slideNumber": 30,
+        "label": "Passo 30",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_30.webp"
+      },
+      {
+        "slideNumber": 31,
+        "label": "Passo 31",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_31.webp"
+      },
+      {
+        "slideNumber": 32,
+        "label": "Passo 32",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_32.webp"
+      },
+      {
+        "slideNumber": 33,
+        "label": "Passo 33",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_33.webp"
+      },
+      {
+        "slideNumber": 34,
+        "label": "Passo 34",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_34.webp"
+      },
+      {
+        "slideNumber": 35,
+        "label": "Passo 35",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_35.webp"
+      },
+      {
+        "slideNumber": 36,
+        "label": "Passo 36",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_36.webp"
+      },
+      {
+        "slideNumber": 37,
+        "label": "Passo 37",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_37.webp"
+      },
+      {
+        "slideNumber": 38,
+        "label": "Passo 38",
+        "type": "step",
+        "src": "assets/slides/mr-tb-54/slide_38.webp"
+      },
+      {
+        "slideNumber": 39,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-54/slide_39.webp"
+      }
+    ]
+  },
+  {
+    "id": "mr-tb-55",
+    "title": "Montaje - La física de la luz",
+    "originalTitle": "Slide 292 (tutorial_slide_292)",
+    "course": "techbot",
+    "courseName": "TechBot",
+    "sourceType": "mr",
+    "level": "My Robot Tech ESP (CLASE 05 - TECHBOT\t)",
+    "steps": 20,
+    "slideCount": 20,
+    "thumb": "assets/thumbs/mr-tb-55.webp",
+    "pdf": "tutoriais/Tech/tutorial_slide_292",
+    "slides": [
+      {
+        "slideNumber": 1,
+        "label": "Visão Geral / Passo 1",
+        "type": "overview",
+        "src": "assets/slides/mr-tb-55/slide_01.webp"
+      },
+      {
+        "slideNumber": 2,
+        "label": "Passo 2",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_02.webp"
+      },
+      {
+        "slideNumber": 3,
+        "label": "Passo 3",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_03.webp"
+      },
+      {
+        "slideNumber": 4,
+        "label": "Passo 4",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_04.webp"
+      },
+      {
+        "slideNumber": 5,
+        "label": "Passo 5",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_05.webp"
+      },
+      {
+        "slideNumber": 6,
+        "label": "Passo 6",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_06.webp"
+      },
+      {
+        "slideNumber": 7,
+        "label": "Passo 7",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_07.webp"
+      },
+      {
+        "slideNumber": 8,
+        "label": "Passo 8",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_08.webp"
+      },
+      {
+        "slideNumber": 9,
+        "label": "Passo 9",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_09.webp"
+      },
+      {
+        "slideNumber": 10,
+        "label": "Passo 10",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_10.webp"
+      },
+      {
+        "slideNumber": 11,
+        "label": "Passo 11",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_11.webp"
+      },
+      {
+        "slideNumber": 12,
+        "label": "Passo 12",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_12.webp"
+      },
+      {
+        "slideNumber": 13,
+        "label": "Passo 13",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_13.webp"
+      },
+      {
+        "slideNumber": 14,
+        "label": "Passo 14",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_14.webp"
+      },
+      {
+        "slideNumber": 15,
+        "label": "Passo 15",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_15.webp"
+      },
+      {
+        "slideNumber": 16,
+        "label": "Passo 16",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_16.webp"
+      },
+      {
+        "slideNumber": 17,
+        "label": "Passo 17",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_17.webp"
+      },
+      {
+        "slideNumber": 18,
+        "label": "Passo 18",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_18.webp"
+      },
+      {
+        "slideNumber": 19,
+        "label": "Passo 19",
+        "type": "step",
+        "src": "assets/slides/mr-tb-55/slide_19.webp"
+      },
+      {
+        "slideNumber": 20,
+        "label": "Robô Montado (OK)",
+        "type": "finish",
+        "src": "assets/slides/mr-tb-55/slide_20.webp"
       }
     ]
   }
