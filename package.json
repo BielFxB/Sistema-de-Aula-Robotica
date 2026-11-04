@@ -4,6 +4,7 @@
   "description": "Sistema de apresentação de slides de montagem para alunos e professores, organizado nos 3 cursos: **FirstBot**, **OneBot** e **TechBot**.",
   "main": "app.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
