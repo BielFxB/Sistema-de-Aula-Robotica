@@ -64,12 +64,17 @@
   const btnZoomReset = document.getElementById('btn-zoom-reset');
   const zoomLevelText = document.getElementById('zoom-level-text');
 
+  // Scroll lock & preservation state
+  let savedScrollY = 0;
+  let lastTriggerElement = null;
+
   // Initialize
   async function init() {
     initTheme();
 
-    if (window.TUTORIALS_DATA && Array.isArray(window.TUTORIALS_DATA)) {
-      allTutorials = window.TUTORIALS_DATA;
+    const staticData = (typeof TUTORIALS_DATA !== 'undefined' ? TUTORIALS_DATA : (typeof window !== 'undefined' ? window.TUTORIALS_DATA : null));
+    if (staticData && Array.isArray(staticData)) {
+      allTutorials = staticData;
     } else {
       try {
         const response = await fetch('tutorials.json');
@@ -287,10 +292,28 @@
       }
     });
 
-    // Reset zoom and exit fullscreen on dialog close
+    // Reset zoom, exit fullscreen, and restore scroll on dialog close
     viewerDialog.addEventListener('close', () => {
       resetZoom();
       toggleFullscreen(false);
+
+      // Unlock background page scroll
+      document.documentElement.classList.remove('dialog-open');
+      document.body.classList.remove('dialog-open');
+
+      // Restore exact scroll position
+      window.scrollTo({
+        top: savedScrollY,
+        left: 0,
+        behavior: 'instant'
+      });
+
+      // Restore focus to triggering card without triggering scroll
+      if (lastTriggerElement && typeof lastTriggerElement.focus === 'function') {
+        try {
+          lastTriggerElement.focus({ preventScroll: true });
+        } catch (_) {}
+      }
     });
   }
 
@@ -512,6 +535,14 @@
 
     // Display first slide
     updateSlideDisplay();
+
+    // Save scroll position and active element before opening dialog
+    savedScrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop || 0;
+    lastTriggerElement = document.activeElement;
+
+    // Lock background page scroll
+    document.documentElement.classList.add('dialog-open');
+    document.body.classList.add('dialog-open');
 
     // Show modal dialog
     viewerDialog.showModal();

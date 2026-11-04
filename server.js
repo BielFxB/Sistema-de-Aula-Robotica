@@ -56,3 +56,4 @@ server.listen(PORT, '0.0.0.0', () => {
   console.log(`   Pronto para PM2 e rede local`);
   console.log(`====================================================`);
 });
+

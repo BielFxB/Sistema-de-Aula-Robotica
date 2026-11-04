@@ -17,3 +17,4 @@ if %ERRORLEVEL% NEQ 0 (
     npx -y serve . -p 8000
 )
 pause
+
