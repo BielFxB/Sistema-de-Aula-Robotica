@@ -29,11 +29,25 @@ Ao clicar em qualquer robô do catálogo:
 
 | Curso | Plataforma / Origem | Qtd. de Projetos | Total de Slides | Descrição |
 | :--- | :--- | :---: | :---: | :--- |
-| **FirstBot** | Padrão (28) + MR (58) | **86** | **2.117 slides** | Blocos modulares grandes de pinos, adaptadores, motores e sensores de toque. |
-| **OneBot** | Padrão (32) + MR (75) | **107** | **2.915 slides** | Engrenagens coloridas, vigas, polias, bielas, eixos e sensores. |
-| **TechBot** | Padrão (10) + MR (55) | **65** | **1.179 slides** | Perfis de alumínio/placas perfuradas pretas, parafusos, garras e componentes eletrônicos. |
+| **FirstBot** | Padrão (28) + MR (51) | **79** | **1.942 slides** | Blocos modulares grandes de pinos, adaptadores, motores e sensores de toque. |
+| **OneBot** | Padrão (32) + MR (50) | **82** | **2.348 slides** | Engrenagens coloridas, vigas, polias, bielas, eixos e sensores. |
+| **TechBot** | Padrão (10) + MR (47) | **57** | **1.036 slides** | Perfis de alumínio/placas perfuradas pretas, parafusos, garras e componentes eletrônicos. |
 | **SkillBot** | AI Module 1S-A & 1S-B | **48** | **485 slides** | Robótica inteligente e programação em blocos com motores de malha fechada. |
-| **TOTAL** | — | **306** | **6.696 slides** | Acervo completo com filtro dedicado "MR" |
+| **TOTAL** | — | **266** | **5.811 slides** | Acervo completo com filtro dedicado "MR" (148 aulas) |
+
+---
+
+## 🌐 Como Usar Sem Internet na Escola (Rede Local / Wi-Fi)
+
+Para hospedar o site no seu computador e permitir que todos os alunos e outros computadores acessem mesmo **sem internet**:
+
+1. Dê um duplo clique no arquivo **`INICIAR_SERVIDOR.bat`** (ou execute `py servidor_local.py`).
+2. Uma janela preta abrirá mostrando o endereço de acesso, por exemplo:
+   ```text
+   http://10.101.198.24:8000
+   ```
+3. Nos computadores ou tablets dos alunos (conectados ao mesmo Wi-Fi da escola), basta abrir o navegador e digitar esse endereço.
+4. Mantenha a janela aberta enquanto durar a aula!
 
 ---
 

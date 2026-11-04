@@ -6,8 +6,8 @@ __pycache__/
 
 # Scripts utilitários de geração
 *.py
+!servidor_local.py
 
 # Arquivos do sistema
 .DS_Store
 Thumbs.db
-
